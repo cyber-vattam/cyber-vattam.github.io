@@ -16,5 +16,7 @@ extensions:
 தகவல் சரியானதாகவும், உண்மையானதாகவும், நம்பகமானதாகவும் இருக்க வேண்டும்.
 மறுப்பின்மை (Non-Repudiation) பண்புகளையும் கொண்டிருக்க வேண்டும்.
 
+![The San Juan Mountains are beautiful!](/images/security_pillars.png "San Juan Mountains")
+
 ### கிடைக்கும் தன்மை
 அங்கீகரிக்கப்பட்ட பயனர்களுக்கு பிணையங்கள் (network), சேவைகள் (services), இணைப்புகள் (connectivity), பயன்பாடுகள் (applications) மற்றும் தரவு (data) தேவைப்படும்போது சரியான நேரத்தில் நம்பகமாகக் கிடைப்பதை உறுதிப்படுத்துவது.
