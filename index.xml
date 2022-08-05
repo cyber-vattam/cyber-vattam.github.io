@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybervattam </title>
+    <link>/</link>
+    <description>Recent content on Cybervattam </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Nov 2018 19:02:50 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>தகவல் பாதுகாப்பின் தூண்கள்</title>
+      <link>/books/cybersecurity/cryptography/cybersecurity-pillars/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cybersecurity/cryptography/cybersecurity-pillars/</guid>
+      <description>பாதுகாப்பு முக்கோணம்
+இரகசியத்தன்மை அங்கீகரிக்கப்பட்ட நபர்கள் மட்டுமே குறிப்பிட்ட தகவலை அணுகுவதை உறுதிப்படுத்துவது
+நம்பகத்தன்மை தகவலை மாற்றவோ / சிதைக்கவோ முடியாது என்பதை உறுதிப்படுத்துவது. தகவல் சரியானதாகவும், உண்மையானதாகவும், நம்பகமானதாகவும் இருக்க வேண்டும். மறுப்பின்மை (Non-Repudiation) பண்புகளையும் கொண்டிருக்க வேண்டும்.
+கிடைக்கும் தன்மை அங்கீகரிக்கப்பட்ட பயனர்களுக்கு பிணையங்கள் (network), சேவைகள் (services), இணைப்புகள் (connectivity), பயன்பாடுகள் (applications) மற்றும் தரவு (data) தேவைப்படும்போது சரியான நேரத்தில் நம்பகமாகக் கிடைப்பதை உறுதிப்படுத்துவது.</description>
+    </item>
+    
+    <item>
+      <title>இந்த முன்னெடுப்பில் பங்களிக்க விருப்பமா?</title>
+      <link>/books/aboutus/contribution/contribution/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/aboutus/contribution/contribution/</guid>
+      <description>இந்த முன்னெடுப்பில் பங்களிக்க விருப்பமா? இந்த தளத்தில் காணும் படைப்புகளை உங்கள் மொழியில் காண விரும்பினால், நீங்கள் ஆங்கில வடிவில் உள்ள படைப்பை எடுத்து நீங்கள் விரும்பிய மொழிக்கு மொழிமாற்றம் செய்ய உதவலாம்.</description>
+    </item>
+    
+    <item>
+      <title>உரிமங்கள்</title>
+      <link>/books/aboutus/licenses/licenses/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/aboutus/licenses/licenses/</guid>
+      <description>உரிமங்கள் இந்த தளத்தில் உள்ள அனைத்து படைப்புகளும், படைப்பாக்கப் பொதுமங்கள்-பெயர் குறிப்பிடுதல்-வர்த்தக நோக்கமற்ற-அதே மாதிரி பகிர்தல் (CC-BY-NC-SA 4.0) உரிமத்தின் கீழ் வழங்கப்படுகிறது. இந்த உரிமம்பற்றி மேலும் தெரிந்துகொள்ள, கீழ்காணும் வளங்காட்டியை சொடுக்கவும்.
+https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
+    </item>
+    
+    <item>
+      <title>உரிமங்கள்</title>
+      <link>/courses/books/aboutus/licenses/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/courses/books/aboutus/licenses/</guid>
+      <description>  உரிமங்கள் 1   உரிமங்கள் 2  </description>
+    </item>
+    
+    <item>
+      <title>எங்களை பற்றி</title>
+      <link>/books/aboutus/aboutus/aboutus/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/aboutus/aboutus/aboutus/</guid>
+      <description>எங்களை பற்றி தகவல் தொழில்நுட்பத்தை அவரவர் தாய் மொழியில் பயில்வதற்கு தேவையான தரவுகளை உருவாக்குவதே இந்த தளத்தின் நோக்கம். தற்போது, ஆங்கிலம் மற்றும் தமிழில் தரவுகள் கிடைக்கின்றன. மற்ற மொழிகளிலும், இதனை கிடைக்கச் செய்வதில் மிகுந்த ஆர்வமாக உள்ளோம். நீங்கள், இதனை உங்கள் மொழியில் கிடைக்க உதவலாம்.</description>
+    </item>
+    
+    <item>
+      <title>எங்களை பற்றி</title>
+      <link>/courses/books/aboutus/aboutus/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/courses/books/aboutus/aboutus/</guid>
+      <description>  எங்களை பற்றி 1   எங்களை பற்றி 2  </description>
+    </item>
+    
+    <item>
+      <title>கட்டச்சங்கிலி</title>
+      <link>/courses/books/emergingtech/blockchain/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/courses/books/emergingtech/blockchain/</guid>
+      <description>  கட்டச்சங்கிலி 1   கட்டச்சங்கிலி 2  </description>
+    </item>
+    
+    <item>
+      <title>கட்டச்சங்கிலி அறிமுகம்</title>
+      <link>/books/emergingtech/blockchain/introduction/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/emergingtech/blockchain/introduction/</guid>
+      <description>கட்டச்சங்கிலி அறிமுகம் கட்டச்சங்கிலி கட்டச்சங்கிலி கட்டச்சங்கிலி</description>
+    </item>
+    
+    <item>
+      <title>பங்களிப்பு</title>
+      <link>/courses/books/aboutus/contribution/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/courses/books/aboutus/contribution/</guid>
+      <description>  பங்களிப்பு 1   பங்களிப்பு 2  </description>
+    </item>
+    
+    <item>
+      <title>பொதுத் திறவி உள்கட்டமைப்பு</title>
+      <link>/courses/books/cybersecurity/pki/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/courses/books/cybersecurity/pki/</guid>
+      <description>  பொதுத் திறவி உள்கட்டமைப்பு 1   பொதுத் திறவி உள்கட்டமைப்பு 2   </description>
+    </item>
+    
+    <item>
+      <title>பொதுத் திறவி உள்கட்டமைப்பு அறிமுகம்</title>
+      <link>/books/cybersecurity/pki/introduction/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cybersecurity/pki/introduction/</guid>
+      <description>பொதுத் திறவி உள்கட்டமைப்பு அறிமுகம் பொதுத் திறவி உள்கட்டமைப்பு என்பது வன்பொருள் (Hardware), மென்பொருள் (Software), கொள்கைகள் (Policies) நடைமுறைகள் (procedures), மக்கள் (People), பாத்திரங்கள் (Roles) ஆகியவற்றின் தொகுப்பாகும்.​​
+இந்த தொகுப்பு இலக்கமுறைச் சான்றிதழ்களை (Digital Certificates) உருவாக்க, நிர்வகிக்க, விநியோகிக்க, பயன்படுத்த, சேமிக்க, சரிபார்க்க, திரும்பப்பெற மற்றும் சான்றிதழ் வாழ்நிலைச் சுழற்சியை (Certificate Lifecycle) நிர்வகிக்க பயன்படுகிறது.​​
+இது தகவல் பரிமாற்றம் செய்யும் தரப்பினரின் அடையாளத்தை உறுதிப்படுத்தவும், அனுப்பப்படும் தகவல்களை சரிபார்க்கவும் பாதுகாப்பான உள்கட்டமைப்பை வழங்குகிறது.​
+பொதுத் திறவி உள்கட்டமைப்பின் நோக்கம் இணைய பரிவர்த்தனைகள், இணைய வங்கி மற்றும் மின்னஞ்சல் போன்ற மின்னணு பரிமாற்றத் தகவலின் பாதுகாப்பை எளிதாக்குவதாகும்​</description>
+    </item>
+    
+    <item>
+      <title>மறை நாணயங்கள்</title>
+      <link>/courses/books/emergingtech/cryptocurrency/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/courses/books/emergingtech/cryptocurrency/</guid>
+      <description>  மறை நாணயங்கள் 1   மறை நாணயங்கள் 2  </description>
+    </item>
+    
+    <item>
+      <title>மறை நாணயங்கள் அறிமுகம்</title>
+      <link>/books/emergingtech/cryptocurrency/introduction/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/emergingtech/cryptocurrency/introduction/</guid>
+      <description>மறை நாணயங்கள் அறிமுகம் மறை நாணயங்கள் மறை நாணயங்கள் மறை நாணயங்கள்</description>
+    </item>
+    
+    <item>
+      <title>மறைப்பியல்</title>
+      <link>/courses/books/cybersecurity/cryptography/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/courses/books/cybersecurity/cryptography/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>மறைப்பியல் அறிமுகம்</title>
+      <link>/books/cybersecurity/cryptography/cryptography-introduction/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cybersecurity/cryptography/cryptography-introduction/</guid>
+      <description>மறைப்பியல் அறிமுகம் மறைப்பியல் என்பது மின் வெளியில்(Cyber Space) தகவலை எவ்வாறு மறைத்து பரிமாறி/சேமித்து, மீட்டெப்பது என்பது பற்றியதன் இயல் ஆகும். இது மறையீட்டியல், குறியாக்கவியல் அல்லது கமுக்கவியல் என்றும் அழைக்கப்படுகிறது. இவ்வியல் கணிதவியல், கணினியியல் மற்றும் பொறியியல் துறைகளின் கூற்றுகளை ஒருசேர உபயோகிக்கும் கூட்டுத் துறையாக விளங்குகிறது. மின் வெளியில் தகவல் பரிமாற்றம் மற்றும் சேமிப்பின் பொழுது, அதன் இரகசியத்தன்மை மற்றும் நம்பகத்தன்மையை காக்க உதவுகிறது
+தகவலை பரிமாறும் / சேமிக்கும் முன்னர், அந்த தகவல் மறையாக்க தீர்வுநெறியின் (Encryption Algorithm) உதவியால், மறையாக்க திறவி (Encryption Key) கொண்டு, மறைக்குறியீடாக (Ciphertext) மாற்றப்படும். இச்செயல் மறையாக்கம் (Encryption) என்று அழைக்கப்படுகிறது</description>
+    </item>
+    
+    <item>
+      <title>மாற்ற முடியாத வில்லைகள்</title>
+      <link>/courses/books/emergingtech/nft/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/courses/books/emergingtech/nft/</guid>
+      <description>  மாற்ற முடியாத வில்லைகள் 1   மாற்ற முடியாத வில்லைகள் 2  </description>
+    </item>
+    
+    <item>
+      <title>மாற்ற முடியாத வில்லைகள் அறிமுகம்</title>
+      <link>/books/emergingtech/nft/introduction/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/emergingtech/nft/introduction/</guid>
+      <description>மாற்ற முடியாத வில்லைகள் அறிமுகம் மாற்ற முடியாத வில்லைகள் மாற்ற முடியாத வில்லைகள் மாற்ற முடியாத வில்லைகள்</description>
+    </item>
+    
+    <item>
+      <title>பொதுத் திறவி உள்கட்டமைப்பின் கூறுகள்</title>
+      <link>/books/cybersecurity/pki/pki-components/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cybersecurity/pki/pki-components/</guid>
+      <description>பொதுத் திறவி உள்கட்டமைப்பின் கூறுகள்   பதிவு ஆணையம் (Registration Authority)​  சான்றிதழ் கோரி விண்ணப்பிக்கும் நபர்கள் மற்றும் நிறுவனங்களின் அடையாளத்தை சரிபார்க்கும் சேவையை செய்கிறது.​    சான்றிதழ் ஆணையம் (Certificate Authority)​  இலக்கமுறைச் சான்றிதழ்களை வழங்கி, சேமித்து, மற்றும் குறியொப்பமிடும் சேவைகளை செய்கிறது.​    மைய களஞ்சியம் / கோப்பகம் (Central Repository)​  திறவிகள் சேமிக்கப்பட்டு அட்டவணைப்படுத்தப்படும் பாதுகாப்பான இடம்;​    சான்றிதழ் மேலாண்மை அமைப்பு (Certificate Management System)​  சேமிக்கப்பட்ட சான்றிதழ்களுக்கான அணுகல் மற்றும் வழங்கப்பட வேண்டிய சான்றிதழ்களை வழங்குவது, சான்றிதழ் வாழ்நிலைச் சுழற்சி (Certificate Lifecycle) போன்றவற்றை நிர்வகிக்கும்    சான்றிதழ் கொள்கை (Certificate Policy)​  பொதுத் திறவி உள்கட்டமைப்பின் நடைமுறைகள் தொடர்பான தேவைகளை குறிப்பிடும்.</description>
+    </item>
+    
+    <item>
+      <title>மறையாக்க வகைகள்</title>
+      <link>/books/cybersecurity/cryptography/encryption-types/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cybersecurity/cryptography/encryption-types/</guid>
+      <description>மறையாக்கம் கீழ்காணும் மூன்று வகைகளாக பிரிக்கப்படுகிறது. இவை குறித்து அடுத்து விரிவாக காணலாம். மறையாக்க வகைகள்</description>
+    </item>
+    
+    <item>
+      <title>ஒற்றைத் திறவி மறையாக்கம்</title>
+      <link>/books/cybersecurity/cryptography/symmetric-key/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cybersecurity/cryptography/symmetric-key/</guid>
+      <description>உதாரணமாக முகிலன் ஒரு இரகசிய தகவலை எழிலனுக்கு அனுப்ப விழைகிறார் என எடுத்துக் கொள்வோம். இந்த தகவல் இவர்கள் இருவருக்கு மட்டுமே தெரிய வேண்டிய ஒன்று
+தகவலை பரிமாறும் முன்னர், முகிலன் மற்றும் எழிலன் ஒரு இரகசிய சொற்றொடரை தேர்வு செய்வர். இந்த சொற்றொடர் வேறு யாருக்கும் தெரியாது /தெரியவும் கூடாது. இந்த சொற்றொடரை இரகசியத் திறவி என வைத்துக் கொள்வோம்
+ஒற்றைத் திறவி மறையாக்கம்
+முகிலன் அந்த இரகசியத் திறவியை கொண்டு தன் தகவலை மறையாக்கம் செய்து, மறைக்குறியீட்டை எழிலனுக்கு அனுப்புவார் எழிலன் அதே இரகசியத் திறவியை கொண்டு மறைக்குறியீட்டை மறைநீக்கம் செய்து இயற்தகவலை பெறுவார்
+இவ்வாறு ஒரே திறவியை கொண்டு மறையாக்கம் மற்றும் மறைநீக்கம் செய்யும் முறை ஒற்றைத் திறவி மறையாக்கம் என்றும் இரகசியத் திறவி மறைப்பியல் (Secret Key Cryptography) என்றும் அழைக்கப்படுகிறது.</description>
+    </item>
+    
+    <item>
+      <title>இரட்டைத் திறவி மறையாக்கம்</title>
+      <link>/books/cybersecurity/cryptography/asymmetric-key/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cybersecurity/cryptography/asymmetric-key/</guid>
+      <description>ஒவ்வொரு நபரிடமும் இரு திறவிகள் இருக்கும். இவை பொதுத் திறவி (Public Key) &amp;amp; தனித் திறவி (Private Key) என்று அழைக்கப்படும். இவை இரண்டும் துணைத் திறவிகள் (Key Pair) என்றும் அழைக்கப்படும். துணைத் திறவிகள் கணித பண்புகளால் பிணைக்கப்பட்டது. ஒரு திறவியில் இருந்து மற்றொரு திறவியை தருவிக்க (Derive) / ஊகிக்க (Guess) முடியாது. பொதுத் திறவியை பொது வெளியில் (மின்னஞ்சல், வலைத்தளம், சமூக ஊடகம் வாயிலாக) பகிர்வர். தனித் திறவியை இரகசியமாக பாதுகாப்பர்.
+ஒரு திறவியால் மறையாக்கம் (encryption) செய்த மறைக்குறியீட்டை (cipher text) அதன் துணைத் திறவியால் மட்டுமே மறைநீக்கம் (decryption) செய்ய இயலும்</description>
+    </item>
+    
+    <item>
+      <title>குறுக்கம்</title>
+      <link>/books/cybersecurity/cryptography/hashing/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cybersecurity/cryptography/hashing/</guid>
+      <description>குறுக்கம் அல்லது குறுக்க செயல்கூறு (Hash Function) என்பது எந்த ஒரு தரவையும் ஒரு குறிப்பிட்ட நீளம் கொண்ட பதினாறெண்முறை எண்ணாக (Hexadecimal number) மாற்றும் கணித வழிமுறை. இதனை பயன்படுத்த திறவிகள் தேவையில்லை. உள்ளீட்டுத் தரவு எவ்வளவு நீளமாக, பெரிதாக அல்லது வெவ்வேறு வகைகளாக இருந்தாலும், ஒரு தீர்வுநெறி குறிப்பிட்ட நீளம் கொண்ட குறுக்க மதிப்புகளை மட்டுமே வெளிப்படுத்தும்
+குறுக்கம்
+இந்த குறிப்பிட்ட நீளம் கொண்ட எண் வரிசைக்கு குறுக்க மதிப்பு (Hash Value) அல்லது செய்திச் சுருக்கம் (Message Digest) என்று பெயர். ஒரு சிறிய இடைவெளி வேறுபாடு கூட குறுக்க மதிப்பை மாற்றிவிடும். இதனால், குறுக்க மதிப்பு அதன் தரவின் கைரேகையை போன்று கருதப்படுகிறது.</description>
+    </item>
+    
+    <item>
+      <title>குறுக்க மரம்/மெர்கல் மரம்</title>
+      <link>/books/cybersecurity/cryptography/merkle-tree/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cybersecurity/cryptography/merkle-tree/</guid>
+      <description>குறுக்க மரம் அல்லது மெர்க்கல் மரம் என்பது ஒரு மர வடிவம் கொண்ட தொகுப்பு. இதில் ஒவ்வொரு இலை கணுவும் தரவுத் தொகுதியின் குறுக்க மதிப்பால் குறிக்கப்படும், மேலும் ஒவ்வொரு இலை அல்லாத கணுவும் அதன் குழந்தை கணுவின் குறுக்க மதிப்பால் குறிக்கப்படும்.
+குறுக்க மரம் என்ற கருவை ரால்ப் மெர்க்கல் 1979 ஆண்டில் காப்புரிமை பெற்றார். இதனால், அவரின் பெயரில் மெர்கல் மரம் என்று அழைக்கப்படுகிறது. இவர் பொது திறவி மறைப்பியலைக் கண்டுபிடித்தவர்களில் ஒருவர். மறைப்பியல் குறுக்கத்தின் கண்டுபிடிப்பாளர்.</description>
+    </item>
+    
+    <item>
+      <title>பொதுத் திறவி மறைப்பியல் பண்புகள்</title>
+      <link>/books/cybersecurity/cryptography/public-key-cryptography-properties/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cybersecurity/cryptography/public-key-cryptography-properties/</guid>
+      <description>பொதுத் திறவி மறைப்பியல் - இரகசியத்தன்மை உதாரணமாக முகிலன் ஒரு தகவலை எழிலனுக்கு அனுப்ப விழைகிறார் என எடுத்துக் கொள்வோம். இந்த தகவல் இவர்கள் இருவருக்கு மட்டுமே தெரிய வேண்டிய ஒன்று. முகிலன் எழிலனின் பொதுத் திறவியை கொண்டு அந்த தகவலை மறையாக்கம் செய்து மறைக்குறியீட்டை எழிலனுக்கு அனுப்புவார். எழிலனின் தனித் திறவியை தவிர வேறு எந்த திறவியாலும் மறைக்குறியீட்டை மறைநீக்கம் செய்ய இயலாது என்பதால் எழிலனால் மட்டுமே அந்த தகவலை மறைநீக்கம் செய்ய முடியும்
+இதனால் தகவலின் இரகசியத்தன்மை பண்பு காக்கப்படுகிறது.
+பொதுத் திறவி மறைப்பியல் - நம்பகத்தன்மை உதாரணமாக முகிலன் எழிலனுக்கு அதிகாரபூர்வமாக ஒரு தகவலை அனுப்ப விழைகிறார் என எடுத்துக் கொள்வோம்.</description>
+    </item>
+    
+    <item>
+      <title>மறைப்பியல் ஒப்பீடு</title>
+      <link>/books/cybersecurity/cryptography/crytography-comparison/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cybersecurity/cryptography/crytography-comparison/</guid>
+      <description>இரகசியத் திறவி மறைப்பியல்  ஒற்றைத் திறவி மறைப்பியல் இரகசியத் திறவி மறைப்பியல் என்றும் அறியப்படுகிறது மறையாக்கம் மற்றும் மறைநீக்கம் செய்ய ஒரே திறவி பயன்படுத்தப்படும்மறையாக்கம் மற்றும் மறைநீக்கம் செய்ய ஒரே திறவி பயன்படுத்தப்படும் இரகசியத்தன்மை பண்பை மட்டுமே அளிக்கிறது பொதுவாக மறையாக்கம் / மறைநீக்கம் வேகமாக நிகழும் திறவி மேலாண்மை சற்றே கடினமானது இரகசியத் திறவி வெளியில் கசிந்தால் அதைக்கொண்டு யார் வேண்டுமானாலும் மறைநீக்கம் செய்ய இயலும். இதனால் இரகசியத் திறவியை அனைத்து பயன்பாட்டாளர்களும் பாதுகாப்பாக வைக்க வேண்டும்.  பொதுத் திறவி மறைப்பியல்  இரட்டைத் திறவி மறைப்பியல் பொதுத் திறவி மறைப்பியல் என்றும் அறியப்படுகிறது மறையாக்கம் செய்ய ஒரு திறவி மற்றும் மறைநீக்கம் செய்ய மற்றொரு திறவி என இரண்டு திறவிகள் பயன்படுத்தப்படும் இரகசியத்தன்மை மற்றும் நம்பகத்தன்மை பண்பை அளிக்கிறது மறையாக்கம் / மறைநீக்கம் சற்றே மெதுவாக நிகழும் திறவி மேலாண்மை மிக சிக்கலானது ஒரு திறவியால் மறையாக்கம் செய்த மறைக்குறியீட்டை அதன் துணைத் திறவியால் மட்டுமே மறைநீக்கம் செய்ய இயலும்.</description>
+    </item>
+    
+    <item>
+      <title>மறையாக்க பயன்பாடுகள்</title>
+      <link>/books/cybersecurity/cryptography/encryption-usecases/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cybersecurity/cryptography/encryption-usecases/</guid>
+      <description>ஒற்றைத் திறவி மறையாக்கம் தீர்வுநெறி  நவீன மறையாக்க தரப்பாடு (AES) தரவு மறையாக்க தரப்பாடு (DES) Two Fish / Blow Fish RC4, RC5, RC6  பயன்பாடுகள்  நிலைவட்டு (HDD) மறையாக்கம் திடநிலை சேமிப்பகம் (SSD) மறையாக்கம் மேகக் கணிமை சேமிப்பகம் (Cloud Storage) மறையாக்கம் மெய்நிகர் சேமிப்பகம் (Virtual Storage) மறையாக்கம்  இரட்டைத் திறவி மறையாக்கம் தீர்வுநெறி  Rivest Shamir Adleman (RSA) Diffie-Hellman இலக்கமுறைக் குறியொப்ப தீர்வுநெறி (DSA) நீள்வட்ட வளைவு மறைப்பியல் (ECC)  பயன்பாடுகள்  போக்குவரத்து அடுக்கு பாதுகாப்பு (TLS/SSL) இலக்கமுறைக் குறியொப்பம் (Digital Signature) மெய்நிகர் தனியார் பிணையம் (VPN) பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை (HTTPS)  குறுக்கம் தீர்வுநெறி  செய்திச் சுருக்கம் (MD2, MD4, MD5) பாதுகாப்பான குறுக்க தீர்வுநெறி (SHA-1, SHA-256, SHA384 &amp;amp; SHA-512)  பயன்பாடுகள்  கடவுச்சொல் குறுக்கம் (Password Hash) மென்பொருள் நம்பகத்தன்மை (Software Integrity) கோப்பு நம்பகத்தன்மை (File Integrity) கட்டச்சங்கிலி / தொடரேடு (Blockchain)  </description>
+    </item>
+    
+  </channel>
+</rss>
