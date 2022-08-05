@@ -20,12 +20,58 @@
     </item>
     
     <item>
+      <title>இலக்கமுறைச் சான்றிதழ்</title>
+      <link>/books/cybersecurity/pki/digital-certificates/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/pki/digital-certificates/</guid>
+      <description>இலக்கமுறைச் சான்றிதழ் / Digital Certificate இலக்கமுறைச் சான்றிதழை ஒரு மின்னணு அடையாள ஆவணமாகக் கருதலாம். இவை X.509 சான்றிதழ் என்றும் அறியப்படுகிறது. இலக்கமுறைச் சான்றிதழ் என்பது ஒரு பொதுத் திறவி மற்றும் அதன் உரிமையாளர் இடையில் ஒரு தொடர்பை ஏற்படுத்த வழிவகுக்கிறது சான்றிதழ் ஆணையத்தால் சான்றளிக்கப்பட்டு உரிமையாளருக்கு வழங்கப்படுகிறது. உரிமையாளர் முடிந்தவரை இலக்கமுறை சான்றிதழை பாதுகாப்பாக வைக்க வேண்டும். ஒரு குறிப்பிட்ட காலம் வரை மட்டுமே செல்லுபடியாகும். இதன் வாழ்க்கைச் சுழற்சியை பொதுத் திறவி உள்கட்டமைப்பு நிர்வகிக்கிறது.
+இலக்கமுறைச் சான்றிதழ் வடிவங்கள் / Digital Certificate Formats PEM format (Privacy Enhanced Mail) / தனியுரிமை மேம்படுத்தப்பட்ட அஞ்சல் இவ்வடிவம் X.</description>
+    </item>
+    
+    <item>
       <title>பொதுத் திறவி உள்கட்டமைப்பின் கூறுகள்</title>
       <link>/books/cybersecurity/pki/pki-components/</link>
       <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
       
       <guid>/books/cybersecurity/pki/pki-components/</guid>
       <description>பொதுத் திறவி உள்கட்டமைப்பின் கூறுகள்   பதிவு ஆணையம் (Registration Authority)​  சான்றிதழ் கோரி விண்ணப்பிக்கும் நபர்கள் மற்றும் நிறுவனங்களின் அடையாளத்தை சரிபார்க்கும் சேவையை செய்கிறது.​    சான்றிதழ் ஆணையம் (Certificate Authority)​  இலக்கமுறைச் சான்றிதழ்களை வழங்கி, சேமித்து, மற்றும் குறியொப்பமிடும் சேவைகளை செய்கிறது.​    மைய களஞ்சியம் / கோப்பகம் (Central Repository)​  திறவிகள் சேமிக்கப்பட்டு அட்டவணைப்படுத்தப்படும் பாதுகாப்பான இடம்;​    சான்றிதழ் மேலாண்மை அமைப்பு (Certificate Management System)​  சேமிக்கப்பட்ட சான்றிதழ்களுக்கான அணுகல் மற்றும் வழங்கப்பட வேண்டிய சான்றிதழ்களை வழங்குவது, சான்றிதழ் வாழ்நிலைச் சுழற்சி (Certificate Lifecycle) போன்றவற்றை நிர்வகிக்கும்    சான்றிதழ் கொள்கை (Certificate Policy)​  பொதுத் திறவி உள்கட்டமைப்பின் நடைமுறைகள் தொடர்பான தேவைகளை குறிப்பிடும்.</description>
+    </item>
+    
+    <item>
+      <title>நம்பிக்கை சங்கிலி</title>
+      <link>/books/cybersecurity/pki/chain-of-trust/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/pki/chain-of-trust/</guid>
+      <description>நம்பிக்கை சங்கிலி நம்பிக்கையின் சங்கிலி பல பகுதிகளைக் கொண்டுள்ளது.
+முதலில் ஒரு நம்பிக்கை நங்கூரம் (Trust Anchor). இது வேர் சான்றிதழ் ஆணையம் (Root Certifying Authority) என்றும் அழைக்கப்படுகிறது.
+இரண்டாவதாக, ஒரு இடைநிலை சான்றிதழ் ஆணையம் (Intermediate CA). இதன் கட்டுப்பாட்டில் பல துணை இடைநிலை சான்றிதழ் ஆணையங்கள் (Sub CA) இருக்கலாம்.
+இந்த இடைநிலை சான்றிதழ் ஆணையம் இறுதி அமைப்புகள் மற்றும் வேர் சான்றிதழ் ஆணையத்தின் இடையே ஒரு அரண் போல் செயல்படுகிறது.
+இறுதியில் ஒரு வலைத்தளம், நிறுவனம் அல்லது நபர் போன்ற அமைப்புகளுக்கு வழங்கப்படும் இறுதி அமைப்புச் சான்றிதழ் (End Entity Certificate)
+நம்பிக்கை சங்கிலி சரிபார்த்தல் / Chain of Trust Verification அடையாளத்தை நிரூபிக்க வேண்டிய ஒரு வாடிக்கையாளர் தனது சான்றிதழை வழங்குகிறார்.</description>
+    </item>
+    
+    <item>
+      <title>நம்பிக்கை சேமிப்பகம் / சான்றிதழ் சேமிப்பகம்</title>
+      <link>/books/cybersecurity/pki/certificate-store/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/pki/certificate-store/</guid>
+      <description>நம்பிக்கை சேமிப்பகம் / சான்றிதழ் சேமிப்பகம் / Trust Stores / Certificate Stores நம்பிக்கை சேமிப்பகம் என்பது இயல்பாக நம்பப்படும் வேர் சான்றிதழ்களின் தொகுப்பாகும்
+இவை இயங்குதளம் மற்றும் வலை உலாவிகளை உருவாக்கும் நிறுவனங்களால் பராமரிக்கப்படுகின்றன.
+இந்தியாவில் உரிமம் பெற்ற சான்றளிக்கும் ஆணையங்கள் / Licensed Certifying Authorities in India </description>
+    </item>
+    
+    <item>
+      <title>பொதுத் திறவி உள்கட்டமைப்பின் திறன்கள்</title>
+      <link>/books/cybersecurity/pki/pki-capabilities/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/pki/pki-capabilities/</guid>
+      <description>பொதுத் திறவி உள்கட்டமைப்பின் திறன்கள் / Public Key Infrastructure Capabilities பொதுத் திறவி உள்கட்டமைப்பு &amp;ldquo;நம்பிக்கை சேவைகளை“ (Trust Services) வழங்குகிறது
+எளிதாக கூறுவதென்றால் நபர்கள் / கணினிகள் / நிறுவனங்களின் செயல்கள் அல்லது வெளியீடுகளை நம்ப உதவுகிறது
+நம்பிக்கை சேவையின் நோக்கங்கள் பின்வரும் திறன்களின் அடிப்படையில் அமைகின்றன</description>
     </item>
     
   </channel>
