@@ -5,6 +5,12 @@
     <loc>/books/cybersecurity/cryptography/cybersecurity-pillars/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
+    <loc>/books/cybersecurity/pki/introduction/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/pki/digital-certificates/</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/books/aboutus/contribution/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
@@ -53,9 +59,6 @@
     <loc>/books/cybersecurity/pki/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cybersecurity/pki/introduction/</loc>
-    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
-  </url><url>
     <loc>/courses/books/emergingtech/cryptocurrency/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
@@ -86,32 +89,32 @@
     <loc>/books/emergingtech/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cybersecurity/pki/digital-certificates/</loc>
-    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/books/cybersecurity/pki/pki-components/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/cryptography/encryption-types/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cybersecurity/cryptography/symmetric-key/</loc>
-    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
-  </url><url>
     <loc>/books/cybersecurity/pki/chain-of-trust/</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/books/cybersecurity/cryptography/asymmetric-key/</loc>
+    <loc>/books/cybersecurity/cryptography/symmetric-key/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/pki/certificate-store/</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/cryptography/asymmetric-key/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/pki/pki-capabilities/</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/cryptography/hashing/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/pki/digital-signature-certificate/</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/cryptography/merkle-tree/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
