@@ -2,14 +2,14 @@
 title: 'நம்பிக்கை சங்கிலி'
 date: 2022-08-05
 draft: false
-weight: 5
+weight: 4
 ---
 
-### நம்பிக்கை சங்கிலி
+### நம்பிக்கை சங்கிலி / Chain of Trust
 
 நம்பிக்கையின் சங்கிலி பல பகுதிகளைக் கொண்டுள்ளது. 
 
-<img src="/images/chain-of-trust-ta.svg"  width="50%" height="50%">
+<img src="/images/chain-of-trust-ta.svg">
 
 
 முதலில் ஒரு நம்பிக்கை நங்கூரம் (Trust Anchor). இது வேர் சான்றிதழ் ஆணையம் (Root Certifying Authority) என்றும் அழைக்கப்படுகிறது.
@@ -20,7 +20,7 @@ weight: 5
 
 இறுதியில் ஒரு வலைத்தளம், நிறுவனம் அல்லது நபர் போன்ற அமைப்புகளுக்கு வழங்கப்படும் இறுதி அமைப்புச் சான்றிதழ் (End Entity Certificate)
 
-<img src="/images/digital-certificate-chain-ta.png"  width="50%" height="50%">
+<img src="/images/digital-certificate-chain-ta.png">
 
 ### நம்பிக்கை சங்கிலி சரிபார்த்தல் / Chain of Trust Verification
 
