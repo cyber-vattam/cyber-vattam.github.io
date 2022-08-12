@@ -6,7 +6,7 @@
     <description>Recent content on Cybervattam </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>தகவல் பாதுகாப்பின் தூண்கள்</title>
       <link>/books/cybersecurity/cryptography/cybersecurity-pillars/</link>
@@ -120,7 +120,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
       <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
       
       <guid>/courses/books/cybersecurity/pki/</guid>
-      <description>  பொதுத் திறவி உள்கட்டமைப்பு 1   பொதுத் திறவி உள்கட்டமைப்பு 2   </description>
+      <description>   </description>
     </item>
     
     <item>
@@ -286,6 +286,16 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
     </item>
     
     <item>
+      <title>போக்குவரத்து அடுக்கு​ பாதுகாப்புச் சான்றிதழ்​ / Transport Layer Security Certificate​​</title>
+      <link>/books/cybersecurity/pki/tls/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/pki/tls/</guid>
+      <description>போக்குவரத்து அடுக்கு பாதுகாப்புச் சான்றிதழ் வகைகள்​ / Transport Layer Security Certificate Types​ 1. களப்பெயர் சரிபார்த்தல்​ / Domain validation குறைந்த அளவிலான உறுதி நிலையை அளிக்கிறது. இவ்வகைச் சான்றிதழ்கள் பெற எளிதானவை. வலைத்தளத்தின் களப்பெயர் மட்டுமே சரிபார்க்கப்படும்​. இச்சான்றிதழ்களைக் கொண்ட வலைத்தளங்களில் பாதுகாப்பான பூட்டு சின்னம் மட்டுமே இருக்கும். அந்த வலைத்தளத்தின் உரிமையாளர் பெயரோ அல்லது வணிக நிறுவன பெயரோ இருக்காது. ​எனவே, பாதுகாப்பான அடையாளம் இருந்தபோதிலும், பார்வையாளர்கள் வலைத்தளம் உண்மையில் அவர்கள் தேடும் வணிகத்திற்கு சொந்தமானதா என்பதை சரிபார்க்க எந்த வழியும் இல்லை.
+2. நிறுவனம் சரிபார்த்தல் ​/ Organization Validation இதுவே மிகவும் பொதுவாக பயன்படுத்தப்படும் பாதுகாப்பு உறுதி நிலை​.</description>
+    </item>
+    
+    <item>
       <title>பொதுத் திறவி மறைப்பியல் பண்புகள்</title>
       <link>/books/cybersecurity/cryptography/public-key-cryptography-properties/</link>
       <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
@@ -294,6 +304,15 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
       <description>பொதுத் திறவி மறைப்பியல் - இரகசியத்தன்மை உதாரணமாக முகிலன் ஒரு தகவலை எழிலனுக்கு அனுப்ப விழைகிறார் என எடுத்துக் கொள்வோம். இந்த தகவல் இவர்கள் இருவருக்கு மட்டுமே தெரிய வேண்டிய ஒன்று. முகிலன் எழிலனின் பொதுத் திறவியை கொண்டு அந்த தகவலை மறையாக்கம் செய்து மறைக்குறியீட்டை எழிலனுக்கு அனுப்புவார். எழிலனின் தனித் திறவியை தவிர வேறு எந்த திறவியாலும் மறைக்குறியீட்டை மறைநீக்கம் செய்ய இயலாது என்பதால் எழிலனால் மட்டுமே அந்த தகவலை மறைநீக்கம் செய்ய முடியும்
 இதனால் தகவலின் இரகசியத்தன்மை பண்பு காக்கப்படுகிறது.
 பொதுத் திறவி மறைப்பியல் - நம்பகத்தன்மை உதாரணமாக முகிலன் எழிலனுக்கு அதிகாரபூர்வமாக ஒரு தகவலை அனுப்ப விழைகிறார் என எடுத்துக் கொள்வோம்.</description>
+    </item>
+    
+    <item>
+      <title>குறியீடு ஒப்பமிடல் சான்றிதழ் / Code Signing Certificate</title>
+      <link>/books/cybersecurity/pki/code-signing/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/pki/code-signing/</guid>
+      <description>குறியீடு ஒப்பமிடல் சான்றிதழ் / Code Signing குறியீடு ஒப்பமிடல் என்பது மென்பொருள் (இயக்கக்கூடிய கோப்புகள் மற்றும் மூல குறியீடு) பதிப்பாளரை அடையாளப்படுத்த இலக்கமுறை முறையில் ஒப்பமிடுவது.​ மேலும், இது ஒப்பமிடப்பட்ட நேரத்திலிருந்து மென்பொருள் மாற்றப்படவில்லை அல்லது சிதைக்கப்படவில்லை என்பதற்கு உத்தரவாதம் அளிக்கிறது. இதனை சரிபார்க்க குறுக்க மதிப்புகளை பயன்படுத்துகிறது. ​குறியீடு ஒப்பமிடல் வழியாக மென்பொருள் அடையாளம் / சான்றுறுதி அளிக்கும் இம்முறையின் பாதுகாப்பு, ஒப்பமிடும் திறவிகளின் பாதுகாப்பைப் பொறுத்தது. இந்த அமைப்பின் நம்பகத்தன்மை மென்பொருள் வெளியீட்டாளர்கள் தங்கள் தனித் திறவிகளை பாதுகாப்பதை நம்பியுள்ளது​. எனவே, பாதுகாப்பான, சேதமடையாத, மறைப்பியல் வன்பொருள் சாதனங்களில் திறவிகளை சேமிப்பது மிகவும் பாதுகாப்பானது மற்றும் சிறந்த நடைமுறையாக கருதப்படுகிறது.</description>
     </item>
     
     <item>
@@ -306,12 +325,32 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
     </item>
     
     <item>
+      <title>நேர முத்திரையிடல் / Time Stamping</title>
+      <link>/books/cybersecurity/pki/time-stamping/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/pki/time-stamping/</guid>
+      <description>நேர முத்திரையிடல் / Time Stamping நேர முத்திரையிடல் என்பது ஒரு ஆவணத்தின் உருவாக்கம் மற்றும் மாற்றியமைக்கும் நேரங்களை பாதுகாப்பாக கண்காணிக்கும் செயல்முறையாகும். இவ்வாறு வழங்கப்படும் முத்திரை, நம்பகமான நேர முத்திரை (Trusted Time Stamp) என்று அழைக்கப்படும். இங்கே பாதுகாப்பு என்பது நேரம் பதிவு செய்யப்பட்டவுடன், அந்த ஆவணத்தின் உரிமையாளர் உள்பட எவரும் ஆவணத்தை மாற்ற முடியாது என்பதை உறுதிப்படுத்துவது. இலக்கமுறைக் குறியொப்பம் அல்லது குறியீடு குறியொப்பத்துடன் நம்பகமான நேர முத்திரையைச் சேர்ப்பது, அந்த ஒப்பமிடப்பட்ட தரவு, ஆவணம் அல்லது குறியீட்டுக்கு கூடுதல் நம்பகத்தன்மையை அளிப்பதுடன் பரிவர்த்தனை நடந்த நம்பகமான தேதி மற்றும் நேரத்தையும் வழங்குகிறது. ஒரு ஆவணம் அல்லது குறியீடு எந்த தேதி மற்றும் நேரத்தில் ஒப்பமிடப்பட்டுள்ளது என்பதை நம்பகமாக குறிப்பிடுவதற்கு ஒரு நம்பகமான நேர முத்திரையிடல் ஆணையம் (Trusted Time Stamping Authority) பயன்படுத்தப்படுகிறது.</description>
+    </item>
+    
+    <item>
       <title>மறையாக்க பயன்பாடுகள்</title>
       <link>/books/cybersecurity/cryptography/encryption-usecases/</link>
       <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
       
       <guid>/books/cybersecurity/cryptography/encryption-usecases/</guid>
       <description>ஒற்றைத் திறவி மறையாக்கம் தீர்வுநெறி  நவீன மறையாக்க தரப்பாடு (AES) தரவு மறையாக்க தரப்பாடு (DES) Two Fish / Blow Fish RC4, RC5, RC6  பயன்பாடுகள்  நிலைவட்டு (HDD) மறையாக்கம் திடநிலை சேமிப்பகம் (SSD) மறையாக்கம் மேகக் கணிமை சேமிப்பகம் (Cloud Storage) மறையாக்கம் மெய்நிகர் சேமிப்பகம் (Virtual Storage) மறையாக்கம்  இரட்டைத் திறவி மறையாக்கம் தீர்வுநெறி  Rivest Shamir Adleman (RSA) Diffie-Hellman இலக்கமுறைக் குறியொப்ப தீர்வுநெறி (DSA) நீள்வட்ட வளைவு மறைப்பியல் (ECC)  பயன்பாடுகள்  போக்குவரத்து அடுக்கு பாதுகாப்பு (TLS/SSL) இலக்கமுறைக் குறியொப்பம் (Digital Signature) மெய்நிகர் தனியார் பிணையம் (VPN) பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை (HTTPS)  குறுக்கம் தீர்வுநெறி  செய்திச் சுருக்கம் (MD2, MD4, MD5) பாதுகாப்பான குறுக்க தீர்வுநெறி (SHA-1, SHA-256, SHA384 &amp;amp; SHA-512)  பயன்பாடுகள்  கடவுச்சொல் குறுக்கம் (Password Hash) மென்பொருள் நம்பகத்தன்மை (Software Integrity) கோப்பு நம்பகத்தன்மை (File Integrity) கட்டச்சங்கிலி / தொடரேடு (Blockchain)  </description>
+    </item>
+    
+    <item>
+      <title>மின்னஞ்சல் மறையாக்கம் / Email Encryption</title>
+      <link>/books/cybersecurity/pki/email-encryption/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/pki/email-encryption/</guid>
+      <description>மின்னஞ்சல் மறையாக்கம் | Email Encryption மின்னஞ்சல் சரிபார்த்தல் / Email Validation இந்த செயல்முறைக்கு சரியான மின்னஞ்சல் முகவரி மற்றும் களப்பெயர் சரிபார்த்தல் தேவைப்படுகிறது.
+தனிநபர் / பணியாளர் சரிபார்த்தல் / Individual Validation இந்த செயல்முறை ஒவ்வொரு பணியாளரையும் தனித்தனியாக அடையாளம் காண்பதை நோக்கமாகக் கொண்டுள்ளது. இவ்வகைச் சான்றிதழ்களில் மின்னஞ்சல் முகவரியுடன் அதன் உரிமையாளர் பெயரும் இணைத்து வழங்கப்படும். இதனைப் பெற அரசாங்கத்தால் வழங்கப்பட்ட அடையாள அட்டை மற்றும் சரிபார்க்கப்பட்ட மின்னஞ்சல் முகவரி அவசியம் தேவை.
+நிறுவன சரிபார்த்தல் / Organization Validation குறிப்பிட்ட பெயர் கொண்ட நிறுவனம் உள்ளது மற்றும் செயல்படுகிறது என்பதை சரிபார்ப்பது இந்த செயல்முறையின் நோக்கமாக உள்ளது.</description>
     </item>
     
   </channel>
