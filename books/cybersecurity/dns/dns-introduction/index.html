@@ -96,41 +96,49 @@
 
   <main class="container-fluid mt-5 w-100 h-100">
     <div class="row py-5 w-100 h-100" id="main-container">
+       
+
+  <nav class="navbar border-1 border-bottom">
+  <div class="row w-100">
+    <div class="col-4 text-start">
       
+    </div>
+    <div class="col-4 mb-2 text-center">
+      <a class="text-dark"
+        href="/books/cybersecurity/dns">களப்பெயர் முறைமை (DNS)</a>
+         <h4>களப்பெயர் முறைமை அறிமுகம்</h4>
+    </div>
+    <div class="col-4 text-end">
+      <a href="/books/cybersecurity/dns/dns-hierarchy">களப்பெயர் முறைமை படிநிலை</a>
+    </div>
+  </div>
+</nav>
 
-<nav class="navbar">
-
-
-    
-    <ol class="breadcrumb">
-        <li class="text-info px-2"><i class="fas fa-book fa-2x"></i></li>
-        
-        <li class="breadcrumb-item" aria-current="page">தகவல் பாதுகாப்பு</li>
-    </ol>
-    
-      
-    
-  </nav>
-  
-
-<main class="pt-3">
-    <ul>
-    
-    
-        <li>
-            <a href="/books/cybersecurity/dns">களப்பெயர் முறைமை (DNS)</a>
-        </li>
-    
-        <li>
-            <a href="/books/cybersecurity/pki">பொதுத் திறவி உள்கட்டமைப்பு (Public Key Infrastructure PKI)</a>
-        </li>
-    
-        <li>
-            <a href="/books/cybersecurity/cryptography">மறைப்பியல் (Cryptography)</a>
-        </li>
-    
-    </ul>
+<main id="content" class="pt-3"><h3 id="களபபயர-மறம-அறமகம--dns-introduction">களப்பெயர் முறைமை அறிமுகம் / DNS Introduction</h3>
+<p>களப்பெயர் முறைமை என்பது ஒரு கணினி சேவையகத்தில் இயங்கும் ஒரு சிறப்பு மென்பொருள் ஆகும். இது சேவையக பெயர்கள் மற்றும் அதனுடன் தொடர்புடைய இ.நெறி முகவரி ஆகியவற்றின் விவரங்களை இணைத்துக் கொண்டுள்ளது. இது நமது கைபேசியில் உள்ள தொடர்புகள் செயலி அல்லது தொலைபேசி எண் விவரப் புத்தகத்திற்கு மிகவும் ஒத்திருக்கிறது. இணையம் / அக வளங்களை அணுக உலாவிகள் / பயன்பாடுகளுக்கான களப்பெயர்களை இ.நெறி முகவரிகளுக்கு களப்பெயர் முறைமை மொழிபெயர்க்கிறது. களப்பெயர் முறைமை சேவையகங்கள் சிறப்பு மென்பொருளை இயக்குகின்றன மற்றும் பெயரைத் தீர்க்க சிறப்பு நெறிமுறைகளைப் பயன்படுத்தி தங்களுக்குள்ளே தொடர்பு கொள்கின்றன. தொடக்கத்திலிருந்தே பயணாளர் தரவுச்செய்தி நெறிமுறை (UDP) மற்றும் பரப்புகை கட்டுப்பாடு நெறிமுறை (TCP) துறை (Port) எண் 53-ஐ பயன்படுத்த களப்பெயர் முறைமை வடிவமைக்கப்பட்டுள்ளது, இயல்புநிலையில் UDP-யிலும் வழிமாற்றாக TCP-யிலும் செயல்படும்.</p>
 </main>
+
+
+<div class="modal fade" id="noteModel" tabindex="-1" aria-labelledby="noteModelLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="noteModelLabel">Note</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="mb-3">
+          <textarea class="form-control" id="noteText" rows="3"></textarea>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 
     </div>
     
@@ -180,6 +188,8 @@
   
   
   
+
+<script type="text/javascript" src="/js/chapter.js"></script>
 
 
   

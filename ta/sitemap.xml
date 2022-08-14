@@ -2,11 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/books/cybersecurity/dns/</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/dns/dns-introduction/</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/books/cybersecurity/cryptography/cybersecurity-pillars/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/pki/introduction/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/dns/dns-hierarchy/</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/pki/digital-certificates/</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
@@ -89,11 +98,20 @@
     <loc>/books/emergingtech/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
+    <loc>/books/cybersecurity/dns/dns-resolution-process/</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/books/cybersecurity/pki/pki-components/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/cryptography/encryption-types/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/dns/dns-records/</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/dns/dns-zones/</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/pki/chain-of-trust/</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
@@ -107,11 +125,17 @@
     <loc>/books/cybersecurity/cryptography/asymmetric-key/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
+    <loc>/books/cybersecurity/dns/dns-types/</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/books/cybersecurity/pki/pki-capabilities/</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/cryptography/hashing/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/dns/dnssec/</loc>
+    <lastmod>2022-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/pki/digital-signature-certificate/</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
@@ -119,11 +143,17 @@
     <loc>/books/cybersecurity/cryptography/merkle-tree/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
+    <loc>/books/cybersecurity/dns/dns-over-tls/</loc>
+    <lastmod>2022-08-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/books/cybersecurity/pki/tls/</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/cryptography/public-key-cryptography-properties/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/dns/dns-over-https/</loc>
+    <lastmod>2022-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/pki/code-signing/</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
@@ -131,21 +161,27 @@
     <loc>/books/cybersecurity/cryptography/crytography-comparison/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
+    <loc>/books/cybersecurity/dns/odoh/</loc>
+    <lastmod>2022-08-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/books/cybersecurity/pki/time-stamping/</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/cryptography/encryption-usecases/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
+    <loc>/books/cybersecurity/dns/dns64-nat64/</loc>
+    <lastmod>2022-08-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/books/cybersecurity/pki/email-encryption/</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/</loc>
-    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

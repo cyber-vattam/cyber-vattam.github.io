@@ -96,41 +96,50 @@
 
   <main class="container-fluid mt-5 w-100 h-100">
     <div class="row py-5 w-100 h-100" id="main-container">
-      
+       
 
-<nav class="navbar">
+  <nav class="navbar border-1 border-bottom">
+  <div class="row w-100">
+    <div class="col-4 text-start">
+      <a href="/books/cybersecurity/dns/dns-over-tls">போக்குவரத்து அடுக்கு பாதுகாப்பு மேல் களப்பெயர் முறைமை வினவல்</a>
+    </div>
+    <div class="col-4 mb-2 text-center">
+      <a class="text-dark"
+        href="/books/cybersecurity/dns">களப்பெயர் முறைமை (DNS)</a>
+         <h4>பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை மேல் களப்பெயர் முறைமை</h4>
+    </div>
+    <div class="col-4 text-end">
+      <a href="/books/cybersecurity/dns/odoh">மறக்கும் களப்பெயர் முறைமை</a>
+    </div>
+  </div>
+</nav>
 
-
-    
-    <ol class="breadcrumb">
-        <li class="text-info px-2"><i class="fas fa-book fa-2x"></i></li>
-        
-        <li class="breadcrumb-item" aria-current="page">தகவல் பாதுகாப்பு</li>
-    </ol>
-    
-      
-    
-  </nav>
-  
-
-<main class="pt-3">
-    <ul>
-    
-    
-        <li>
-            <a href="/books/cybersecurity/dns">களப்பெயர் முறைமை (DNS)</a>
-        </li>
-    
-        <li>
-            <a href="/books/cybersecurity/pki">பொதுத் திறவி உள்கட்டமைப்பு (Public Key Infrastructure PKI)</a>
-        </li>
-    
-        <li>
-            <a href="/books/cybersecurity/cryptography">மறைப்பியல் (Cryptography)</a>
-        </li>
-    
-    </ul>
+<main id="content" class="pt-3"><h3 id="பதகபபன-மவர-பரமறற-நறமற-மல-களபபயர-மறம--dns-over-https-doh">பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை மேல் களப்பெயர் முறைமை / DNS over HTTPS (DOH)</h3>
+<p>பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை மேல் களப்பெயர் முறைமை வினவல் என்பது ஒரு பாதுகாப்பு நெறிமுறை. இது களப்பெயர் முறைமை வினவல்களை மறையாக்கம் செய்து பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை (HTTPS) மேல் அந்த வினவல் தரவுகளை கிளையனிலிருந்து சுழல்நிலை தீர்விகளுக்கு பாதுகாப்பாக அனுப்பும். இதன் நோக்கம் தகவல் பரிமாற்றத்தின் பொது இடை வருவோர் அந்த தகவலை ஒட்டுக்கேட்பதை தடுத்தல் மற்றும் தகவலை மாற்ற / சிதைக்க முடியாதவாறு பாதுகாத்தல்.</p>
+<img src="images/dns-ta/dns-doh-ta.svg">
 </main>
+
+
+<div class="modal fade" id="noteModel" tabindex="-1" aria-labelledby="noteModelLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="noteModelLabel">Note</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="mb-3">
+          <textarea class="form-control" id="noteText" rows="3"></textarea>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 
     </div>
     
@@ -180,6 +189,8 @@
   
   
   
+
+<script type="text/javascript" src="/js/chapter.js"></script>
 
 
   

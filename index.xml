@@ -6,7 +6,16 @@
     <description>Recent content on Cybervattam </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>களப்பெயர் முறைமை அறிமுகம்</title>
+      <link>/books/cybersecurity/dns/dns-introduction/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/dns/dns-introduction/</guid>
+      <description>களப்பெயர் முறைமை அறிமுகம் / DNS Introduction களப்பெயர் முறைமை என்பது ஒரு கணினி சேவையகத்தில் இயங்கும் ஒரு சிறப்பு மென்பொருள் ஆகும். இது சேவையக பெயர்கள் மற்றும் அதனுடன் தொடர்புடைய இ.நெறி முகவரி ஆகியவற்றின் விவரங்களை இணைத்துக் கொண்டுள்ளது. இது நமது கைபேசியில் உள்ள தொடர்புகள் செயலி அல்லது தொலைபேசி எண் விவரப் புத்தகத்திற்கு மிகவும் ஒத்திருக்கிறது. இணையம் / அக வளங்களை அணுக உலாவிகள் / பயன்பாடுகளுக்கான களப்பெயர்களை இ.நெறி முகவரிகளுக்கு களப்பெயர் முறைமை மொழிபெயர்க்கிறது. களப்பெயர் முறைமை சேவையகங்கள் சிறப்பு மென்பொருளை இயக்குகின்றன மற்றும் பெயரைத் தீர்க்க சிறப்பு நெறிமுறைகளைப் பயன்படுத்தி தங்களுக்குள்ளே தொடர்பு கொள்கின்றன.</description>
+    </item>
+    
     <item>
       <title>தகவல் பாதுகாப்பின் தூண்கள்</title>
       <link>/books/cybersecurity/cryptography/cybersecurity-pillars/</link>
@@ -29,6 +38,16 @@
 இந்த தொகுப்பு இலக்கமுறைச் சான்றிதழ்களை (Digital Certificates) உருவாக்க, நிர்வகிக்க, விநியோகிக்க, பயன்படுத்த, சேமிக்க, சரிபார்க்க, திரும்பப்பெற மற்றும் சான்றிதழ் வாழ்நிலைச் சுழற்சியை (Certificate Lifecycle) நிர்வகிக்க பயன்படுகிறது.​​
 இது தகவல் பரிமாற்றம் செய்யும் தரப்பினரின் அடையாளத்தை உறுதிப்படுத்தவும், அனுப்பப்படும் தகவல்களை சரிபார்க்கவும் பாதுகாப்பான உள்கட்டமைப்பை வழங்குகிறது.​
 பொதுத் திறவி உள்கட்டமைப்பின் நோக்கம் இணைய பரிவர்த்தனைகள், இணைய வங்கி மற்றும் மின்னஞ்சல் போன்ற மின்னணு பரிமாற்றத் தகவலின் பாதுகாப்பை எளிதாக்குவதாகும்​</description>
+    </item>
+    
+    <item>
+      <title>களப்பெயர் முறைமை படிநிலை</title>
+      <link>/books/cybersecurity/dns/dns-hierarchy/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/dns/dns-hierarchy/</guid>
+      <description>களப்பெயர் முறைமை படிநிலை / DNS Hierarchy வேர் களப்பெயர் வழங்கன் / Root Name Servers தற்போது 13 வேர் பெயர் வழங்கன்கள் 13 தன்னாட்சி நிறுவனங்கள் மூலம் எவ்வழி பரப்பு திசைவித்தல் நெறிமுறையில் (Anycast Routing Protocol) இயக்கப்படுகிறது இவை ICANN நிறுவனத்தால் நிர்வகிக்கப்படுகின்றன. ஒரு வேர் வழங்கன், ஒரு சுழல்நிலை தீர்வியின் வினவலை ஏற்றுக்கொள்கிறது, அந்த களப்பெயர் விரிவாக்கம் அடிப்படையில், ஒரு மேல் நிலை களப்பெயர் வழங்கனை நோக்கி மடை மாற்றி விடையளிக்கும். https://root-servers.org/
+களப்பெயர் முறைமையின் வேர் மண்டல தரவை நிர்வகிக்கிறது. இது களப்பெயர் முறைமை மரத்தில் வரிசைக்கு மேலே உள்ளது. இந்த பணியில் உயர் நிலை களப்பெயர் தரவு பதிவாளர்கள், வேர் களப்பெயர் சேவையகங்களை இயக்கம் அமைப்புகள் மற்றும் ICANN இன் கொள்கை உருவாக்கும் குழு ஆகியவற்றுடன் தொடர்புகொள்வது அடங்கும்.</description>
     </item>
     
     <item>
@@ -179,6 +198,15 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
     </item>
     
     <item>
+      <title>களப்பெயர் முறைமை வினவல் தீர்வு முறை</title>
+      <link>/books/cybersecurity/dns/dns-resolution-process/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/dns/dns-resolution-process/</guid>
+      <description>களப்பெயர் முறைமை வினவல் தீர்வு முறை / DNS Query Resolution Process </description>
+    </item>
+    
+    <item>
       <title>பொதுத் திறவி உள்கட்டமைப்பின் கூறுகள்</title>
       <link>/books/cybersecurity/pki/pki-components/</link>
       <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
@@ -194,6 +222,24 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
       
       <guid>/books/cybersecurity/cryptography/encryption-types/</guid>
       <description>மறையாக்கம் கீழ்காணும் மூன்று வகைகளாக பிரிக்கப்படுகிறது. இவை குறித்து அடுத்து விரிவாக காணலாம். மறையாக்க வகைகள்</description>
+    </item>
+    
+    <item>
+      <title>களப்பெயர் முறைமை ஏடுகள்</title>
+      <link>/books/cybersecurity/dns/dns-records/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/dns/dns-records/</guid>
+      <description>களப்பெயர் முறைமை ஏடுகள் / DNS Records  A ஏடு – இணைய நெறிமுறை பதிப்பு 4 (IPv4) முகவரி சேமிக்குமிடம் AAAA ஏடு - இணைய நெறிமுறை பதிப்பு 6 (IPv6) முகவரி சேமிக்குமிடம் CNAME ஏடு – மாற்று களப்பெயர் சேமிக்குமிடம், இந்த ஏடு இருந்தால் இ.நெறி முகவரி கொடுக்கப்படாது. MX ஏடு – இந்த களப்பெயர் நோக்கி வரும் மின்னஞ்சல்களை அதன் மின்னஞ்சல் சேவையகத்திற்க்கு மடை மாற்றும் TXT ஏடு – கள நிர்வாகி சில எழுத்துக் குறிப்புகளை சேமிக்குமிடம் NS ஏடு – களத்தின் அதிகார்பபூர்வ களப்பெயர் வழங்கன் முகவரியை சேமிக்குமிடம் SOA ஏடு – கல நிர்வாகி குறித்த தகவல்களை சேமிக்குமிடம்.</description>
+    </item>
+    
+    <item>
+      <title>களப்பெயர் முறைமை மண்டலங்கள்</title>
+      <link>/books/cybersecurity/dns/dns-zones/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/dns/dns-zones/</guid>
+      <description>களப்பெயர் முறைமை மண்டலங்கள் / DNS Zones களப்பெயர் முறைமை மண்டலம் என்பது ஒரு குறிப்பிட்ட அமைப்பு அல்லது நிர்வாகியால் நிர்வகிக்கப்படும் களப்பெயர் வெளியின் ஒரு பகுதியாகும். களப்பெயர் முறைமை மண்டலம் பல துணை களப்பெயர்களை கொண்டிருக்கலாம் மற்றும் ஒரே சேவையகத்தில் பல மண்டலங்கள் இருக்கலாம். கட்டுப்பாடுகளை ஒப்படைக்க மண்டலங்கள் பயன்படுத்தப்படுகின்றன. களப்பெயர் முறைமை பதிவுகள் (மண்டல கோப்புகள்) அதிகாரப்பூர்வ களப்பெயர் வழங்கனில் இயக்கம் வழிமுறைகள். களப்பெயர் முறைமை பதிவுகள் தொடர் உரை கோப்புகளைக் கொண்டுள்ளன. இவை களப்பெயர் முறைமை தொடரியல் (DNS Syntax) என்று அழைக்கப்படும். இது களப்பெயர் முறைமை வழங்கன் செய்ய வேண்டிய வேலைகளுக்கு இடும் கட்டளைகளை கொண்ட எழுத்துச்சரம்.</description>
     </item>
     
     <item>
@@ -244,6 +290,17 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
     </item>
     
     <item>
+      <title>களப்பெயர் முறைமை வகைகள்</title>
+      <link>/books/cybersecurity/dns/dns-types/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/dns/dns-types/</guid>
+      <description>களப்பெயர் முறைமை வகைகள் / DNS Types அக களப்பெயர் முறைமை / Internal DNS ஒரு நிறுவன தனியார் பிணைபிற்குள் உள்ள சேவையகங்கள் மற்றும் அதன் இணைய நெறிமுறை முகவரியின் தொடர்பை கொண்டுள்ள உள்நோக்கு களப்பெயர் முறைமை
+புற களப்பெயர் முறைமை / External DNS இணையம் / பொது பிணையத்தில் தொடர்புகொள்ள கூடியி நிலையில் உள்ள சேவையகங்கள் மற்றும் அதன் இணைய நெறிமுறை முகவரியின் தொடர்பை கொண்டுள்ள உள்நோக்கு களப்பெயர் முறைமை
+எதிர் களப்பெயர் முறைமை / Reverse DNS இது ஒரு எதிர் திசை வினவல். ஒரு குறிப்பிட்ட இணைய நெறிமுறை முகவரியை கொண்ட சேவையகத்தின் பெயரை பதிலாக கொடுக்கும்.</description>
+    </item>
+    
+    <item>
       <title>பொதுத் திறவி உள்கட்டமைப்பின் திறன்கள்</title>
       <link>/books/cybersecurity/pki/pki-capabilities/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
@@ -266,6 +323,16 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
     </item>
     
     <item>
+      <title>களப்பெயர் முறைமை பாதுகாப்பு</title>
+      <link>/books/cybersecurity/dns/dnssec/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/dns/dnssec/</guid>
+      <description>களப்பெயர் முறைமை பாதுகாப்பு / DNS SEC களப்பெயர் முறைமை பாதுகாப்பின் நோக்கம் களப்பெயர் தரவுகள் மற்றும் அதன் மறைப்பியல் குறியொப்பங்களையும் சேர்த்து ஒரு பாதுகாப்பான களப்பெயர் முறைமையை உருவாக்குவது. தரவின் உரிமையாளர் அவரவர் தரவை ஒப்பமிடுவர்.
+குறியொப்பம் சரிபார்த்தலை வசதிப்படுத்த, களப்பெயர் முறைமை பாதுகாப்பு சில புதிய ஏட்டு வகைகளை சேர்த்துள்ளது: RRSIG ஏடு – ஏட்டுத் தொகுப்பின் இலக்கமுறை குறியொப்பத்தை சேமிக்குமிடம் DNSKEY ஏடு – மறையாக்கத்தில் பயன்படுத்தப்படும் பொதுத் திறவியை சேமிக்குமிடம். DS ஏடு – DNSKEY ஏட்டின் குறுக்க மதிப்பை சேமிக்குமிடம் NSEC and NSEC3 ஏடு – குறிப்பிட்ட களப்பெயர் முறைமை ஏடு இல்லை என வெளிப்படையாக தெரிவிக்கும் ஏடு CDNSKEY and CDS ஏடு – ஒரு குழந்தை மண்டலம் தன் பெற்றோர் மண்டலத்தில் உள்ள DS ஏட்டைப் புதுப்பிக்க பயன்படுகிறது.</description>
+    </item>
+    
+    <item>
       <title>இலக்கமுறைக் குறியொப்ப சான்றிதழ் / Digital Signature Certificate​</title>
       <link>/books/cybersecurity/pki/digital-signature-certificate/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
@@ -283,6 +350,15 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
       <guid>/books/cybersecurity/cryptography/merkle-tree/</guid>
       <description>குறுக்க மரம் அல்லது மெர்க்கல் மரம் என்பது ஒரு மர வடிவம் கொண்ட தொகுப்பு. இதில் ஒவ்வொரு இலை கணுவும் தரவுத் தொகுதியின் குறுக்க மதிப்பால் குறிக்கப்படும், மேலும் ஒவ்வொரு இலை அல்லாத கணுவும் அதன் குழந்தை கணுவின் குறுக்க மதிப்பால் குறிக்கப்படும்.
 குறுக்க மரம் என்ற கருவை ரால்ப் மெர்க்கல் 1979 ஆண்டில் காப்புரிமை பெற்றார். இதனால், அவரின் பெயரில் மெர்கல் மரம் என்று அழைக்கப்படுகிறது. இவர் பொது திறவி மறைப்பியலைக் கண்டுபிடித்தவர்களில் ஒருவர். மறைப்பியல் குறுக்கத்தின் கண்டுபிடிப்பாளர்.</description>
+    </item>
+    
+    <item>
+      <title>போக்குவரத்து அடுக்கு பாதுகாப்பு மேல் களப்பெயர் முறைமை வினவல்</title>
+      <link>/books/cybersecurity/dns/dns-over-tls/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/dns/dns-over-tls/</guid>
+      <description>போக்குவரத்து அடுக்கு பாதுகாப்பு மேல் களப்பெயர் முறைமை வினவல் / DNS over TLS (DOT) போக்குவரத்து அடுக்கு பாதுகாப்பு மேல் களப்பெயர் முறைமை வினவல் என்பது ஒரு பாதுகாப்பு நெறிமுறை. இது களப்பெயர் முறைமை வினவல்களை மறையாக்கம் செய்து போக்குவரத்து அடுக்கு பாதுகாப்பு நெறிமுறை மேல் அந்த வினவல் தரவுகளை கிளையனிலிருந்து சுழல்நிலை தீர்விகளுக்கு பாதுகாப்பாக அனுப்பும். இதன் நோக்கம் தகவல் பரிமாற்றத்தின் பொது இடை வருவோர் அந்த தகவலை ஒட்டுக்கேட்பதை தடுத்தல் மற்றும் தகவலை மாற்ற / சிதைக்க முடியாதவாறு பாதுகாத்தல்.</description>
     </item>
     
     <item>
@@ -307,6 +383,15 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
     </item>
     
     <item>
+      <title>பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை மேல் களப்பெயர் முறைமை</title>
+      <link>/books/cybersecurity/dns/dns-over-https/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/dns/dns-over-https/</guid>
+      <description>பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை மேல் களப்பெயர் முறைமை / DNS over HTTPS (DOH) பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை மேல் களப்பெயர் முறைமை வினவல் என்பது ஒரு பாதுகாப்பு நெறிமுறை. இது களப்பெயர் முறைமை வினவல்களை மறையாக்கம் செய்து பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை (HTTPS) மேல் அந்த வினவல் தரவுகளை கிளையனிலிருந்து சுழல்நிலை தீர்விகளுக்கு பாதுகாப்பாக அனுப்பும். இதன் நோக்கம் தகவல் பரிமாற்றத்தின் பொது இடை வருவோர் அந்த தகவலை ஒட்டுக்கேட்பதை தடுத்தல் மற்றும் தகவலை மாற்ற / சிதைக்க முடியாதவாறு பாதுகாத்தல்.</description>
+    </item>
+    
+    <item>
       <title>குறியீடு ஒப்பமிடல் சான்றிதழ் / Code Signing Certificate</title>
       <link>/books/cybersecurity/pki/code-signing/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
@@ -325,6 +410,15 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
     </item>
     
     <item>
+      <title>மறக்கும் களப்பெயர் முறைமை</title>
+      <link>/books/cybersecurity/dns/odoh/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/dns/odoh/</guid>
+      <description>மறக்கும் களப்பெயர் முறைமை / Oblivious DNS (ODoH) மறக்கும் களப்பெயர் முறைமை என்பது IETF-ஆல் உருவாக்கப்பட்டு வரும் ஒரு வளர்ந்து வரும் நெறிமுறை ஆகும். இது பொதுத் திறவி மறைப்பியல், பிணைய பதிலி, இலக்கு தீர்வி ஆகியவற்றை களப்பெயர் முறைமை வினவல் தீர்வு முறையில் சேர்க்கிறது. இது பயனர்களுக்கும் சுழல்நிலை தீர்விகளுக்கு இடையில் ஒரு பாதுகாப்பு அரணாக செயல்படுகிறது. ஒரு பயனர் அவரவர் விருப்பப்படி ஒரு பதிலி மற்றும் இலக்கை தேர்வு செய்யலாம். இந்த இரண்டு கூறுகள் சேர்க்கப்படுவதால், எப்போதும் பயனர் மட்டுமே களப்பெயர் முறைமை வினவல் தீர்வு மற்றும் அவர் சொந்த இ.நெறி முகவரி இரண்டையும் காண முடியும் என்று உத்தரவாதம் அளிக்கிறது.</description>
+    </item>
+    
+    <item>
       <title>நேர முத்திரையிடல் / Time Stamping</title>
       <link>/books/cybersecurity/pki/time-stamping/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
@@ -340,6 +434,16 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
       
       <guid>/books/cybersecurity/cryptography/encryption-usecases/</guid>
       <description>ஒற்றைத் திறவி மறையாக்கம் தீர்வுநெறி  நவீன மறையாக்க தரப்பாடு (AES) தரவு மறையாக்க தரப்பாடு (DES) Two Fish / Blow Fish RC4, RC5, RC6  பயன்பாடுகள்  நிலைவட்டு (HDD) மறையாக்கம் திடநிலை சேமிப்பகம் (SSD) மறையாக்கம் மேகக் கணிமை சேமிப்பகம் (Cloud Storage) மறையாக்கம் மெய்நிகர் சேமிப்பகம் (Virtual Storage) மறையாக்கம்  இரட்டைத் திறவி மறையாக்கம் தீர்வுநெறி  Rivest Shamir Adleman (RSA) Diffie-Hellman இலக்கமுறைக் குறியொப்ப தீர்வுநெறி (DSA) நீள்வட்ட வளைவு மறைப்பியல் (ECC)  பயன்பாடுகள்  போக்குவரத்து அடுக்கு பாதுகாப்பு (TLS/SSL) இலக்கமுறைக் குறியொப்பம் (Digital Signature) மெய்நிகர் தனியார் பிணையம் (VPN) பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை (HTTPS)  குறுக்கம் தீர்வுநெறி  செய்திச் சுருக்கம் (MD2, MD4, MD5) பாதுகாப்பான குறுக்க தீர்வுநெறி (SHA-1, SHA-256, SHA384 &amp;amp; SHA-512)  பயன்பாடுகள்  கடவுச்சொல் குறுக்கம் (Password Hash) மென்பொருள் நம்பகத்தன்மை (Software Integrity) கோப்பு நம்பகத்தன்மை (File Integrity) கட்டச்சங்கிலி / தொடரேடு (Blockchain)  </description>
+    </item>
+    
+    <item>
+      <title>DNS 64 &amp; NAT 64</title>
+      <link>/books/cybersecurity/dns/dns64-nat64/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/dns/dns64-nat64/</guid>
+      <description>DNS 64 &amp;amp; NAT 64 DNS64 என்பது ஒரு களப்பெயர் வழங்கனிடம் ஒரு குறிப்பிட்ட களத்தின் AAAA ஏட்டைக் கோரும்போது, அங்கே A ஏடு மட்டுமே இருந்தால், A ஏடு தரவை AAAA ஏடு தரவாக இணைப்பாக்கும். (Synthesizes the AAAA records from the A records).
+இணைப்பாக்கம் செய்யப்பட்ட முகவரியில் முதல் பகுதி ஒரு இ.நெறி ப6/இ.நெறி ப4 பெயர்ப்பியை குறிக்கும். அதன் இரண்டாம் பகுதி இ.நெறி ப4 முகவரியை உட்பொதிக்கும். இந்த பெயர்ப்பி பொதுவாக NAT64 வழங்கன் என்று அழைக்கப்படும்.</description>
     </item>
     
     <item>
