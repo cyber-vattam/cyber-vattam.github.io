@@ -2,7 +2,7 @@
 title: 'களப்பெயர் முறைமை வகைகள்'
 date: 2022-08-12
 draft: false
-weight: 4
+weight: 6
 ---
 
 ### களப்பெயர் முறைமை வகைகள் / DNS Types
