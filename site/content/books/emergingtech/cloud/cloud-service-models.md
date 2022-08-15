@@ -5,7 +5,12 @@ draft: false
 weight: 3
 ---
 
-### மேகக் கணிமை சேவை முறைகள் / Cloud Service Models
+## __மேகக் கணிமை சேவை முறைகள் / Cloud Service Models__
+
+<br>
+<img src="images/cloud-ta/cloud-service-model-ta.svg">
+<br>
+<br>
 
 #### 1. சேவையாக உள்கட்டமைப்பு / Infrastructure as a Service (IaaS)
 மெய்நிகராக்கப்பட்ட கணிமை, பிணையம் அல்லது சேமிப்பகம் போன்ற அடிப்படை கணினி உள்கட்டமைப்பின் நிர்வகித்து மேகக் கணிமை சேவையாளர்கள் வள திரள்விற்கான அணுகலை வழங்குகின்றனர். கக் கணிமை நுகர்வோர் தங்கள் தேவைக்கேற்ப பல்வேறு இயங்குதளம் மற்றும் பயன்பாடுகளை அதன் மேல் நிறுவலாம்.
@@ -36,3 +41,20 @@ weight: 3
 * யூடியூப் 
 * ஜூம்
 * மைக்ரோசாப்ட் 365 போன்ற சேவைகள்
+
+## __மேகக் கணிமை பொறுப்பு பகிர்வு முறை  / Cloud Shared Responsiblity Model__
+
+<br>
+
+<img src="images/cloud-ta/cloud-shared-responsibility-model-ta.svg" width=75%>
+
+<br>
+<br>
+
+## __மேகக் கணிமை சேவையாளர்கள் / Cloud Service Providers__
+
+<br>
+
+<img src="images/cloud-ta/cloud-service-providers.svg" width=50%>
+
+<br>

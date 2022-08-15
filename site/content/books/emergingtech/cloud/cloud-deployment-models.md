@@ -5,8 +5,12 @@ draft: false
 weight: 4
 ---
 
-### மேகக் கணிமை பணியமர்த்தல் முறைகள் / Cloud Deployment Models
+## __மேகக் கணிமை பணியமர்த்தல் முறைகள் / Cloud Deployment Models__
+<br>
+<img src="images/cloud-ta/cloud-deployment-model-ta.svg">
 
+<br>
+<br>
 
 #### 1. பொது மேகக் கணிமை / Public Cloud
 மேகக்கணிமை உள்கட்டமைப்பு பொது மக்களுக்கு அல்லது பெரிய தொழில் நிறுவனங்களுக்கு வழங்கப்படுகிறது. இந்த உள்கட்டமைப்பு மேகக் கணிமை சேவையாளர்களுக்கு சொந்தமானது.

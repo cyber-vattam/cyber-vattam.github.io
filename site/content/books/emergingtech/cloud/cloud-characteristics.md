@@ -1,12 +1,17 @@
 ---
-title: 'மேகக் கணிமையின் பண்புகள்'
+title: 'மேகக் கணிமையின் அத்தியாவசிய பண்புகள்'
 date: 2022-08-14
 draft: false
 weight: 2
 ---
 
-### மேகக் கணிமையின் பண்புகள்
+## __மேகக் கணிமையின் அத்தியாவசிய பண்புகள் / Cloud Computing Essential Characteristics__
 
+<br>
+<img src="images/cloud-ta/cloud-characteristics-ta.svg">
+
+<br>
+<br>
 
 #### 1. பரந்த பிணைய அணுகல் / Broad Network Access
 

@@ -1,5 +1,5 @@
 ---
-title: 'மேகக் கணிமை / அயல்கணிச் சேவை (Cloud Computing)'
+title: 'மேகக் கணிமை'
 date: 2022-08-14
 draft: false
 weight: 2
