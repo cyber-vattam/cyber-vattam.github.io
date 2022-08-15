@@ -6,7 +6,19 @@
     <description>Recent content on Cybervattam </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>கட்டச்சங்கிலி அறிமுகம்</title>
+      <link>/books/emergingtech/blockchain/introduction/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/emergingtech/blockchain/introduction/</guid>
+      <description>கட்டச்சங்கிலி அறிமுகம் கட்டச்சங்கிலி / தொடரேடு என்பது இணையர் பிணையத்தில் (P2P network) இருக்கும் பல்வேறு கணினிகளில் உள்ள ஒரு பரவலாக்கப்பட்ட பேரேடு (Distributed Ledger). அனைத்து கணினிகளும் அதே பேரேடு நகலைக் கொண்டிருக்கும்.
+இலக்கமுறைச் சொத்துக்களைக் (Digital Assets) கண்காணிக்க உதுவும் இந்த தொழில்நுட்பம் கணினிகளின் நினைவகத்தில் இயங்குகின்ற செயல்பாடுகளாக உள்ளன
+உதாரணமாக, ஒரு பரிவர்த்தனை பதிவேட்டை எடுத்துக்கொள்வோம். பதிவேட்டில் பல பக்கங்கள் இருக்கும். ஒவ்வொரு பக்கத்திலும் பல பரிவர்த்தனைகளின் பதிவுகள் இருக்கும். மேலும் ஒவ்வொரு பக்கத்திலும், பக்கத்தின் எண் குறிக்கப்பட்டிருக்கும்.
+பக்கத்தின் எண்களை கொண்டு, பரிவர்த்தனை பதிவுகளை நாம் எளிதில் காணலாம். ஒரு பக்கம் தொலைந்தாலோ அல்லது மாற்றப்பட்டாலோ அதனை எளிதில் கண்டுபிடிக்க இயலும்.</description>
+    </item>
+    
     <item>
       <title>மேகக் கணிமை</title>
       <link>/books/emergingtech/cloud/introduction/</link>
@@ -49,6 +61,16 @@
 இந்த தொகுப்பு இலக்கமுறைச் சான்றிதழ்களை (Digital Certificates) உருவாக்க, நிர்வகிக்க, விநியோகிக்க, பயன்படுத்த, சேமிக்க, சரிபார்க்க, திரும்பப்பெற மற்றும் சான்றிதழ் வாழ்நிலைச் சுழற்சியை (Certificate Lifecycle) நிர்வகிக்க பயன்படுகிறது.​​
 இது தகவல் பரிமாற்றம் செய்யும் தரப்பினரின் அடையாளத்தை உறுதிப்படுத்தவும், அனுப்பப்படும் தகவல்களை சரிபார்க்கவும் பாதுகாப்பான உள்கட்டமைப்பை வழங்குகிறது.​
 பொதுத் திறவி உள்கட்டமைப்பின் நோக்கம் இணைய பரிவர்த்தனைகள், இணைய வங்கி மற்றும் மின்னஞ்சல் போன்ற மின்னணு பரிமாற்றத் தகவலின் பாதுகாப்பை எளிதாக்குவதாகும்​</description>
+    </item>
+    
+    <item>
+      <title>கட்டச்சங்கிலிக்கு ஏற்ற சூழல்</title>
+      <link>/books/emergingtech/blockchain/blockchain-context/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/emergingtech/blockchain/blockchain-context/</guid>
+      <description>கட்டச்சங்கிலிக்கு ஏற்ற சூழல் இன்றைய சூழலில், அறிமுகமில்லாத இரு நபர்களோ / நிறுவனங்களோ தங்களிடையே பரிவர்த்தனை செய்ய, பொதுவாக உள்ள மூன்றாம் நபரையோ / நிறுவனத்தையோ நம்புகின்றனர். உதாரணமாக,
+ ஒரு நபரை அடையாளம் காண, அரசு அளித்த அடையாள அட்டை (அரசு) பொதுவாக நம்பப்படுகிறது. வீடு/நிலம் வாங்க / விற்க, அரசு பதிவுத்துறை பொதுவாக நம்பப்படுகிறது வாகனம் வாங்க / விற்க, அரசு வட்டார போக்குவரத்து அலுவலகம் பொதுவாக நம்பப்படுகிறது பணம் அனுப்ப / பெற, ஒரு வங்கியில் இருந்து மற்றொரு வங்கிக்கு பரிவர்த்தனை செய்யப்படுகிறது. இங்கே வங்கிகள் பொதுவாக நம்பப்படுகிறது.  இதனால், மூன்றாம் நபரின் மீது சார்பு நிலை ஏற்படுகிறது.</description>
     </item>
     
     <item>
@@ -146,15 +168,6 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
     </item>
     
     <item>
-      <title>கட்டச்சங்கிலி அறிமுகம்</title>
-      <link>/books/emergingtech/blockchain/introduction/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/books/emergingtech/blockchain/introduction/</guid>
-      <description>கட்டச்சங்கிலி அறிமுகம் கட்டச்சங்கிலி கட்டச்சங்கிலி கட்டச்சங்கிலி</description>
-    </item>
-    
-    <item>
       <title>பங்களிப்பு</title>
       <link>/courses/books/aboutus/contribution/</link>
       <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
@@ -228,6 +241,27 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
     </item>
     
     <item>
+      <title>கட்டச்சங்கிலி வகைகள்</title>
+      <link>/books/emergingtech/blockchain/blockchain-types/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/emergingtech/blockchain/blockchain-types/</guid>
+      <description>கட்டச்சங்கிலி வகைகள் கட்டச்சங்கிலி பிணைய இணைப்பு முறை மற்றும் அனுமதி கோரல் ஆகியவற்றை அடிப்படையாக கொண்டு வகுக்கப்படுகின்றன.
+  அனுமதி கோரல்:
+ அனுமதி கோரும் கட்டச்சங்கிலி (Permissioned Blockchain)  கணுக்கள் / நிறுவனங்களுக்கு முன் அனுமதி / வெவ்வேறு பாத்திர பொறுப்புகளை கட்டச்சங்கிலியின் இயக்குனர் வழங்குவார்.   அனுமதி கோரா கட்டச்சங்கிலி (Permissionless Blockchain)  முன் அனுமதி தேவையில்லை எவரும் சேரலாம்      பிணைய இணைப்பு முறை:
+ பரவலாக்கப்பட்ட கட்டச்சங்கிலி (Distributed Blockchain)  அனைத்து கணுக்களும் இணையானவை   கூட்டமைப்பு கட்டச்சங்கிலி (Consortium Blockchain)  தேர்ந்தெடுக்கப்பட்ட ஒரு கணு நிறுவனத்தின் சார்பில் தொடர்புகொள்ளும்      பொது கட்டச்சங்கிலி / Public Blockchains பொது கட்டச்சங்கிலியில் இணைய யாருக்கும் எந்தத் தடையும் இல்லை.</description>
+    </item>
+    
+    <item>
+      <title>பிட்காயின் கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள்</title>
+      <link>/books/emergingtech/blockchain/bitcoin-block-structure/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/emergingtech/blockchain/bitcoin-block-structure/</guid>
+      <description>கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள் / Block Structure in Bitcoin blockchain  கட்டத்தின் தலைப்பு (Block Header) (80 பைட் நீளம் கொண்ட வரிசைபடுத்தப்பட்ட வடிவம்)  பதிப்பு – தற்போதைய கட்ட உருவத்தின் பதிப்பு (4 பைட் நீளம்) முந்தைய கட்டத்தின் குறுக்க மதிப்பு (32 பைட் நீளம்) தரவுக் குறுக்க மதிப்பு (மெர்கல் மர வேரின் குறுக்க மதிப்பு) (32 பைட் நீளம்) நேர முத்திரை (4 பைட் நீளம்) தற்போதைய கடின அளவு (4 பைட் நீளம்) ஒரேமுறை எண் (4 பைட் நீளம்)   கட்டத்தின் தரவு (Block Data)  பரிவர்த்தனை எண்ணி (Transaction Counter) பரிவர்த்தனைகள் #1, #2, #3, &amp;hellip; ,#n    பிட்காயின் கட்டச்சங்கிலி உதாரணம் / Sample Bitcoin blockchain </description>
+    </item>
+    
+    <item>
       <title>மேகக் கணிமை சேவை முறைகள்</title>
       <link>/books/emergingtech/cloud/cloud-service-models/</link>
       <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
@@ -262,6 +296,15 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
       
       <guid>/books/cybersecurity/cryptography/encryption-types/</guid>
       <description>மறையாக்கம் கீழ்காணும் மூன்று வகைகளாக பிரிக்கப்படுகிறது. இவை குறித்து அடுத்து விரிவாக காணலாம். மறையாக்க வகைகள்</description>
+    </item>
+    
+    <item>
+      <title>பிட்காயின் கட்டச்சங்கிலி கட்ட இணைப்பு செயல்முறை</title>
+      <link>/books/emergingtech/blockchain/bitcoin-block-addition-process/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/emergingtech/blockchain/bitcoin-block-addition-process/</guid>
+      <description>பிட்காயின் கட்டச்சங்கிலி கட்ட இணைப்பு செயல்முறை / Bitcoin blokchain block addition process </description>
     </item>
     
     <item>
@@ -321,6 +364,15 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
     </item>
     
     <item>
+      <title>ஹைப்பர்லெட்ஜர் கட்டத்தின் உறுப்புகள்</title>
+      <link>/books/emergingtech/blockchain/hyperledger-block-structure/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/emergingtech/blockchain/hyperledger-block-structure/</guid>
+      <description>ஹைப்பர்லெட்ஜர் கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள்/ Hyperledger blokchain block structure  கட்டத்தின் தலைப்பு (Block Header)  கட்டத்தின் எண் தரவுக் குறுக்க மதிப்பு முந்தைய கட்டத்தின் குறுக்க மதிப்பு     கட்டத்தின் தரவு (Block Data)  தலைப்பு குறியொப்பம் முன்மொழிவு துலங்கல் மேற்குறிப்பு     மீத்தரவு (Metadata)  கட்டத்தை உருவாக்கியவரின் சான்றிதழ் மற்றும் குறியொப்பம் கட்டத்தை உறுதி செய்பவர் ஒவ்வொரு பரிவர்த்தனையையும் சரிபார்த்து சேர்க்கும் சரியான / தவறான பரிவர்த்தனை குறிகாட்டி இந்தக் கட்டம் உட்பட ஒட்டுமொத்த நிலை புதுப்பிப்புகளின் குறுக்க மதிப்பு    </description>
+    </item>
+    
+    <item>
       <title>மேகக் கணிமை பாத்திரங்கள்</title>
       <link>/books/emergingtech/cloud/cloud-roles/</link>
       <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
@@ -362,6 +414,16 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
     </item>
     
     <item>
+      <title>ஹைப்பர்லெட்ஜர் கட்டச்சங்கிலி பகுப்புகள்</title>
+      <link>/books/emergingtech/blockchain/hyperledger-components/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/emergingtech/blockchain/hyperledger-components/</guid>
+      <description>ஹைப்பர்லெட்ஜர் கட்டச்சங்கிலி பகுப்புகள் / Hyperledger blokchain components இணையர்/ கணு - இணையர் பிணையத்தில் இணைக்கப்பட்ட ஒவ்வொரு கணினியும் அவர்கள் பங்கேற்க விரும்பும் கட்டச்சங்கிலி அமைப்புக்கு ஏற்ற குறிப்பிட்ட கணு பயன்பாட்டை நிறுவி இயக்க வேண்டும். தொழில்நுட்ப ரீதியாக, கட்டச்சங்கிலி ஒரு சேவை மேலடுக்கு பிணையத்தை (Service Overlay Network - SON) உருவாக்குகிறது. இந்த பிணையத்தில் ஒரு கணுவாக இருக்க, கணினி பயன்பாடு குறித்த செய்திகளை செயல்முறை படுத்த இயல வேண்டும் மற்றும் சேவை மேலடுக்கு பிணையத்தின் SON பகிரப்பட்ட நிலையை மாற்ற வேண்டும்.
+கருத்து இணக்க நெறிமுறை - கணு பயன்பாட்டிற்குள் ஒரு பகுதியாக, கருத்து இணக்க நெறிமுறை செயல்படுத்தப்படுகிறது.</description>
+    </item>
+    
+    <item>
       <title>களப்பெயர் முறைமை வகைகள்</title>
       <link>/books/cybersecurity/dns/dns-types/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
@@ -395,6 +457,15 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
     </item>
     
     <item>
+      <title>கணக்கியல் முறைகள்</title>
+      <link>/books/emergingtech/blockchain/accounting-methods/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/emergingtech/blockchain/accounting-methods/</guid>
+      <description>கணக்கியல் முறைகள் </description>
+    </item>
+    
+    <item>
       <title>களப்பெயர் முறைமை பாதுகாப்பு</title>
       <link>/books/cybersecurity/dns/dnssec/</link>
       <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
@@ -422,6 +493,19 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
       <guid>/books/cybersecurity/cryptography/merkle-tree/</guid>
       <description>குறுக்க மரம் அல்லது மெர்க்கல் மரம் என்பது ஒரு மர வடிவம் கொண்ட தொகுப்பு. இதில் ஒவ்வொரு இலை கணுவும் தரவுத் தொகுதியின் குறுக்க மதிப்பால் குறிக்கப்படும், மேலும் ஒவ்வொரு இலை அல்லாத கணுவும் அதன் குழந்தை கணுவின் குறுக்க மதிப்பால் குறிக்கப்படும்.
 குறுக்க மரம் என்ற கருவை ரால்ப் மெர்க்கல் 1979 ஆண்டில் காப்புரிமை பெற்றார். இதனால், அவரின் பெயரில் மெர்கல் மரம் என்று அழைக்கப்படுகிறது. இவர் பொது திறவி மறைப்பியலைக் கண்டுபிடித்தவர்களில் ஒருவர். மறைப்பியல் குறுக்கத்தின் கண்டுபிடிப்பாளர்.</description>
+    </item>
+    
+    <item>
+      <title>கட்டச்சங்கிலியின் பயன்பாடுகள்</title>
+      <link>/books/emergingtech/blockchain/blockchain-usecases/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/emergingtech/blockchain/blockchain-usecases/</guid>
+      <description>நிதித் துறை
+ கடன் அறிக்கைகள் இணையர்-இணையர் கடன் அளித்தல் இணையர்-இணையர் பணப் பரிமாற்றம் பன்னாட்டு பரிவர்த்தனை பதிவேடுகளின் தணிக்கை சிக்கலைக் குறைத்தல் பணமோசடி எதிர்ப்பு &amp;amp; வாடிக்கையாளர் அடையாளம் வர்த்தக நிதி மற்றும் மூலதன சந்தைகள்  மருத்துவத்துறை
+ மருந்து/மாத்திரை/மருத்துவ உபகரணங்கள் வழங்கல் தொடர் நம்பகத்தன்மை மின் சுகாதார பதிவுருகள் (வெளிப்படையான P2D &amp;amp; P2H பரிவர்த்தனைகள்) நோய்ச் சோதனைகள் ஆதாரம்  காப்பீடுத் துறை
+ மேம்படுத்தப்பட்ட பல தரப்பினர் ஒப்பந்தங்கள் நெறிப்படுத்தப்பட்ட இடர் ஒப்பந்த செயல்திறன் &amp;amp; கோருரிமைகள் தீர்ப்பு  சட்டத் துறை
+ சாட்சியத்தின் நம்பகத்தன்மை, மாற்றரு வழக்கு தரவு, வெளிப்படையான காவல் பொறுப்பு சங்கிலி  ஊடகத் துறை</description>
     </item>
     
     <item>
