@@ -96,45 +96,56 @@
 
   <main class="container-fluid mt-5 w-100 h-100">
     <div class="row py-5 w-100 h-100" id="main-container">
-      
+       
 
-<nav class="navbar">
+  <nav class="navbar border-1 border-bottom">
+  <div class="row w-100">
+    <div class="col-4 text-start">
+      <a href="/books/cybersecurity/iam/iam-certificate-based-authn">சான்றிதழ் அடிப்படையிலான சான்றுறுதி</a>
+    </div>
+    <div class="col-4 mb-2 text-center">
+      <a class="text-dark"
+        href="/books/cybersecurity/iam">அடையாளம் &amp; அணுகல் மேலாண்மை (Identity &amp; Access Management)</a>
+         <h4>ஒற்றை நுழைவு / கூட்டமைத்தல்</h4>
+    </div>
+    <div class="col-4 text-end">
+      <a href="/books/cybersecurity/iam/iam-saml">பாதுகாப்பு வலியுறுத்தல் மீவுரை</a>
+    </div>
+  </div>
+</nav>
 
-
-    
-    <ol class="breadcrumb">
-        <li class="text-info px-2"><i class="fas fa-book fa-2x"></i></li>
-        
-        <li class="breadcrumb-item" aria-current="page">தகவல் பாதுகாப்பு</li>
-    </ol>
-    
-      
-    
-  </nav>
-  
-
-<main class="pt-3">
-    <ul>
-    
-    
-        <li>
-            <a href="/books/cybersecurity/iam">அடையாளம் &amp; அணுகல் மேலாண்மை (Identity &amp; Access Management)</a>
-        </li>
-    
-        <li>
-            <a href="/books/cybersecurity/dns">களப்பெயர் முறைமை (DNS)</a>
-        </li>
-    
-        <li>
-            <a href="/books/cybersecurity/pki">பொதுத் திறவி உள்கட்டமைப்பு (Public Key Infrastructure PKI)</a>
-        </li>
-    
-        <li>
-            <a href="/books/cybersecurity/cryptography">மறைப்பியல் (Cryptography)</a>
-        </li>
-    
-    </ul>
+<main id="content" class="pt-3"><h3 id="ஒறற-நழவ--கடடமததல-ssofederation">ஒற்றை நுழைவு / கூட்டமைத்தல் (SSO/Federation)</h3>
+<img src="images/iam-ta/iam-sso-protocols-ta.svg" width=25%>
+<h4 id="கடடமததல-வவவற-களஙகள">கூட்டமைத்தல் (வெவ்வேறு களங்கள்)</h4>
+<p>கூட்டமைப்பு என்பது இரு அமைப்புகளுக்கு / நிறுவனங்களுக்கு இடையே இருக்கும் நம்பிக்கை உறவு.
+பயனரின் நம்பிக்கைச்சான்று (User Credentials) எங்கே சேமிக்கப்படுகின்றன
+மேலும், மூன்றாம் தரப்பினர் அதனை பார்க்காமல் அந்த நம்பிக்கைச்சான்றுகளுக்கு எவ்வாறு சான்றுறுதி அளிப்பது என்பதைப் பற்றியது</p>
+<h4 id="ஒறற-நழவ-ஒர-களததல-உளள-பல-பயனபடகள">ஒற்றை நுழைவு (ஒரே களத்தில் உள்ள பல பயன்பாடுகள்)</h4>
+<p>அடையாள வழங்குநர் பக்கத்தில் ஒருமுறை மட்டுமே உள்நுழைந்து, ஒரு அமர்வைச் செயல்படுத்துவதன் மூலம் ஒரே களத்தில் உள்ள வெவ்வேறு பயன்பாடுகளை அங்கீகரிக்கவும் உள்நுழையவும் ஒற்றை உள்நுழைவு பயன்படுத்தப்படுகிறது.
+ஒற்றை வெளியேற்றம் செய்யவும் இது பயன்படுகிறது</p>
 </main>
+
+
+<div class="modal fade" id="noteModel" tabindex="-1" aria-labelledby="noteModelLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="noteModelLabel">Note</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="mb-3">
+          <textarea class="form-control" id="noteText" rows="3"></textarea>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 
     </div>
     
@@ -184,6 +195,8 @@
   
   
   
+
+<script type="text/javascript" src="/js/chapter.js"></script>
 
 
   

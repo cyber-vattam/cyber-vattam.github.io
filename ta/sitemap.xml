@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/books/cybersecurity/iam/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/iam/iam-intro/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/books/emergingtech/blockchain/introduction/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -19,6 +25,9 @@
   </url><url>
     <loc>/books/cybersecurity/pki/introduction/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/iam/iam-identity-types/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/emergingtech/blockchain/blockchain-context/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
@@ -113,6 +122,9 @@
     <loc>/books/emergingtech/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
+    <loc>/books/cybersecurity/iam/iam-identity-lifecycle/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/books/emergingtech/blockchain/blockchain-types/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -130,6 +142,12 @@
   </url><url>
     <loc>/books/cybersecurity/cryptography/encryption-types/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/iam/iam-provisioning/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/iam/iam-provisioning-types/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/emergingtech/blockchain/bitcoin-block-addition-process/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
@@ -164,6 +182,9 @@
     <loc>/books/cybersecurity/cryptography/asymmetric-key/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
+    <loc>/books/cybersecurity/iam/iam-identity-mapping/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/books/emergingtech/blockchain/hyperledger-components/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -175,6 +196,9 @@
   </url><url>
     <loc>/books/cybersecurity/cryptography/hashing/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/iam/iam-self-service/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/emergingtech/blockchain/accounting-methods/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
@@ -188,6 +212,9 @@
     <loc>/books/cybersecurity/cryptography/merkle-tree/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
+    <loc>/books/cybersecurity/iam/iam-ciam/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/books/emergingtech/blockchain/blockchain-usecases/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -200,6 +227,9 @@
     <loc>/books/cybersecurity/cryptography/public-key-cryptography-properties/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
+    <loc>/books/cybersecurity/iam/iam-vs-ciam/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/books/cybersecurity/dns/dns-over-https/</loc>
     <lastmod>2022-08-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -208,6 +238,9 @@
   </url><url>
     <loc>/books/cybersecurity/cryptography/crytography-comparison/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/iam/iam-authn-authz/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/dns/odoh/</loc>
     <lastmod>2022-08-14T00:00:00+00:00</lastmod>
@@ -218,18 +251,45 @@
     <loc>/books/cybersecurity/cryptography/encryption-usecases/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
+    <loc>/books/cybersecurity/iam/iam-mfa/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/books/cybersecurity/dns/dns64-nat64/</loc>
     <lastmod>2022-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/pki/email-encryption/</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/books/cybersecurity/iam/iam-otp/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/iam/iam-passwordless/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/iam/iam-risk-based-auth/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/iam/iam-certificate-based-authn/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/iam/iam-sso-federation/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/iam/iam-saml/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/iam/iam-oidc/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/iam/iam-saml-vs-oidc/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/books/</loc>
-    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
