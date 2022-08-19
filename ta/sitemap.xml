@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/books/cybersecurity/icann-iana/</loc>
+    <lastmod>2022-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/icann-iana/icann-intro/</loc>
+    <lastmod>2022-08-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/books/cybersecurity/iam/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -25,6 +31,9 @@
   </url><url>
     <loc>/books/cybersecurity/pki/introduction/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/icann-iana/iana-intro/</loc>
+    <lastmod>2022-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/iam/iam-identity-types/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
@@ -121,6 +130,9 @@
   </url><url>
     <loc>/books/emergingtech/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/icann-iana/iana-asn/</loc>
+    <lastmod>2022-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/cybersecurity/iam/iam-identity-lifecycle/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
@@ -285,11 +297,11 @@
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/books/</loc>
-    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>இணைய இருத்திய எண்கள் ஆணையம் (IANA) on Cybervattam </title>
+    <link>/books/cybersecurity/icann-iana/</link>
+    <description>Recent content in இணைய இருத்திய எண்கள் ஆணையம் (IANA) on Cybervattam </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/books/cybersecurity/icann-iana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>இருத்திய பெயர்கள் மற்றும் எண்களுக்கான இணைய நிறுவனம் (ICANN)</title>
+      <link>/books/cybersecurity/icann-iana/icann-intro/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/icann-iana/icann-intro/</guid>
+      <description>இருத்திய பெயர்கள் மற்றும் எண்களுக்கான இணைய நிறுவனம் (Internet Corporation for Assigned Names and Numbers) யார் இவர்கள்?
+ இருத்திய பெயர்கள் மற்றும் எண்களுக்கான இணைய நிறுவனம் (ICANN) என்பது 1988-ஆம் ஆண்டு தொடங்கப்பட்ட ஒரு சர்வதேச இலாப நோக்கற்ற பொது நன்மை நிறுவனம். நிலையான, பாதுகாப்பான மற்றும் ஒருங்கிணைந்த உலகளாவிய இணையத்தை உறுதிப்படுத்த உதவுவதே இந்நிறுவனத்தின் நோக்கம்.  ஏன் இவர்கள் தேவை?
+ இணையத்தில் மற்றொரு அமைப்பை (நபர், நிறுவனம், சேவையகம்) தொடர்புகொள்ள, உங்கள் சாதனத்தில் (கணினி/திறன் பேசி) ஒரு முகவரியை (ஒரு பெயர் அல்லது எண்ணை) உள்ளீடு செய்ய வேண்டும். அந்த முகவரி தனிப்பட்டதாக இருக்க வேண்டும்; அப்பொழுது தான் கணினிகள் ஒன்றையொன்று எங்கு உள்ளது என்பதை கண்டுபிடிக்க இயலும்.</description>
+    </item>
+    
+    <item>
+      <title>இணைய இருத்திய எண்கள் ஆணையம் (IANA)</title>
+      <link>/books/cybersecurity/icann-iana/iana-intro/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/icann-iana/iana-intro/</guid>
+      <description>இணைய இருத்திய எண்கள் ஆணையம் (Internet Assigned Numbers Authority) இணைய இருத்திய எண்கள் ஆணையம் என்பது உலகளாவிய களப்பெயர்கள், எண் வளங்கள் மற்றும் நெறிமுறை இருத்தங்களை மேற்பார்வையிடும் ஒரு தரநிலை அமைப்பாகும்.
+இந்த ஆணையம் அமெரிக்க அரசாங்கத்தின் கட்டுப்பாட்டில் இருந்தது. இணையம் பல நாடுகளால் பரவலாக ஏற்றுக்கொள்ளப்பட்டதால், இந்த ஆணையத்தை ஒரே நாடு நிர்வகிக்கக்கூடாது என்று முடிவு செய்யப்பட்டது.
+இப்போது இருத்திய பெயர்கள் மற்றும் எண்களுக்கான இணைய நிறுவனம் (ICANN) என்ற சர்வதேச இலாப நோக்கற்ற பொது நன்மை நிறுவனத்தால் நிர்வகிக்கப்படுகிறது. இவ்வாணையத்தின் செயல்பாடுகள்:
+* 1. களப்பெயர் சேவைகள் / Domain Name Service  1.</description>
+    </item>
+    
+    <item>
+      <title>தன்னாட்சி அமைப்பு எண்கள்</title>
+      <link>/books/cybersecurity/icann-iana/iana-asn/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/books/cybersecurity/icann-iana/iana-asn/</guid>
+      <description>இணைய நெறிமுறை முகவரி தொகுப்புகள் &amp;amp; தன்னாட்சி அமைப்பு எண்கள் / IP Address Space &amp;amp; Autonomous System Number (ASN) இணைய இருத்திய எண்கள் ஆணையம் இணைய எண் வளங்களான இணைய நெறிமுறை முகவரி தொகுப்புகள் மற்றும் தன்னாட்சி அமைப்பு எண்கள் ஆகியவற்றை ஒதுக்கும் பொறுப்பை வட்டார இணைய பதிவகங்களிடம் (Regional Internet Registry) வழங்குகிறது. தற்பொழுது ARIN, LACNIC, RIPE NCC, AFRINIC &amp;amp; APNIC என 5 வட்டார இணைய பதிவகங்கள் செயல்பட்டு வருகின்றன.
+வட்டார இணைய பதிவகங்கள் நேரடியாக இணைய நெறிமுறை முகவரி தொகுப்புகள் மற்றும் தன்னாட்சி அமைப்பு எண்களை நிர்வகிக்கலாம் அல்லது தேசிய இணைய பதிவகத்திடம் (National Internet Registry) அந்த பொறுப்பை ஒப்படைக்கலாம்.</description>
+    </item>
+    
+  </channel>
+</rss>
