@@ -1,27 +1,28 @@
-# Reference Implementation of Static Site using NPM Scripts
-Reference implementation for HTML Prototypes using NPM Scripts. This codebase is maintained by students and volunteers of [techatpark](http://www.techatpark.com)
+# சைபர்வட்டம் இணையதளம்
+தகவல் தொழில்நுட்பத்தை அவரவர் தாய் மொழியில் பயில்வதற்கு தேவையான தகவல்/தரவுகளை உருவாக்குவதே இந்த தளத்தின் நோக்கம். தற்போது, தமிழில் தகவல்/தரவுகள் கிடைக்கின்றன. மற்ற மொழிகளிலும், இதனை கிடைக்கச் செய்வதில் மிகுந்த ஆர்வமாக உள்ளோம். நீங்கள், இதனை உங்கள் மொழியில் கிடைக்க உதவலாம்.
 
-### Design Goals
+இதன் ஆங்கில வடிவம், https://1drv.ms/u/s!AurHqOkd_-NEa-KrPU3ZyV-tkyQ?e=o5bX1j என்ற முகவரியில் காட்சிவில்லைகளாக கிடைக்கின்றன.
 
-We have below design goals.
+## அமைவு வழிகாட்டி
+வெள்ளோட்டத்தின் மூலக்கூற்றை பதிவிறக்கம் செய்யவும்:
 
-1. Use Low level tools as much as possible
-1. Stablilty over cutting edge
-1. Best Practices and Conventions
-1. Build time Speed 
+```
+git clone https://github.com/cybervattam/cybervattam.github.io.git
+```
 
-We carefuly avoided using image optimization during build time as it is good to do images at design time rather than build time.
+சார்புகளை நிறுவவும்:
 
-### Setup
+```
+cd cybervattam.github.io
+npm install
+```
+சேவையை துவக்கவும்:
 
-To set the appropriate node version. You can install nvm from [here](https://github.com/nvm-sh/nvm)
+```
+npm start
+```
+இந்த தளத்தின் உங்கள் கணினி பதிப்பை காண, உங்கள் உலாவியில் கீழ்காணும் முகவரிக்கு செல்லவும்:
 
-> nvm install
-
-To download the dependencies and build
-
-> npm i
-
-To watch the application on your local browser
-
-> npm start
+```
+http://localhost:3000
+```
